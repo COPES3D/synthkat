@@ -13,7 +13,7 @@ class MyCorpus(object):
         for line in open('object.txt'):
             yield dictionary.doc2bow(line.lower().split())
 
-dictionary = corpora.Dictionary(line.lower().split() for line in open('object2.txt'))
+dictionary = corpora.Dictionary(line.lower().split() for line in open('object.txt'))
 dictionary.compactify()
 
 #export a reference dictionary to csv
