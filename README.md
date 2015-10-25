@@ -1,8 +1,6 @@
-#Synthkat: Synthetic Categories for Vessel Comparison
+#synthkat
 
-Stephen Collins-Elliott
-University of Tennessee, Knoxville
-Department of Classics
+##Synthetic Categories for Vessel Comparison
 
 Synthkat is a computational initiative to construct flexible,
 synthetic categories of established ceramic and glass vessel
@@ -16,6 +14,10 @@ Synthkat is to be aggregative, toward encompassing ever
 larger datasets. The first set of pilot data in .csv and
 .txt format, as well as scripts in python, are available
 on https://github.com/scollinselliott/synthkat.
+
+Stephen Collins-Elliott
+
+Department of Classics, University of Tennessee, Knoxville
 
 25 October 2015
 Knoxville, Tennessee
