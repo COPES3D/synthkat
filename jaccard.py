@@ -22,6 +22,7 @@ with open('dictionary.csv','w', newline ='') as file:
     w.writerows(dictionary.token2id.items())
 corpus_memory_friendly = MyCorpus()
 
+#export a copy of jmat to csv
 with open('jaccard.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     for i in corpus_memory_friendly:
@@ -31,3 +32,13 @@ with open('jaccard.csv', 'w', newline='') as file:
         writer.writerow(jrow)
 
 mat = numpy.genfromtxt("jaccard.csv", delimiter=",")
+
+#use loose Jaccard indices, normalize (change this to broadcasting)
+for j in range(mat.shape[1]):
+    for i in range(mat.shape[0]):
+        if mat[i,j] != 0:
+            mat[i,j] = 1
+for j in range(mat.shape[1]):
+    norm = numpy.sqrt(sum(numpy.square(mat[:,j])))
+    for i in range(mat.shape[0]):            
+        mat[i,j] = mat[i,j]/float(norm)
