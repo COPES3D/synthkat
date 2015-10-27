@@ -3,6 +3,15 @@ import gensim
 import csv
 import numpy
 import scipy
+import matplotlib.pyplot as plt
+import rpy2
+import rpy2.robjects as ro
+import rpy2.robjects.lib.ggplot2 as ggplot2
+from rpy2.robjects.packages import importr
+import rpy2.robjects.numpy2ri
+rpy2.robjects.numpy2ri.activate()
+dbscan = importr("dbscan")
+
 
 def jaccard(a,b):
     return float(len(set.intersection(*[set(a), set(b)]))/float(len(set.union(*[set(a), set(b)])))
