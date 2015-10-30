@@ -4,7 +4,6 @@ import numpy
 import scipy
 from scipy.cluster.hierarchy import ward, dendrogram
 import matplotlib.pyplot as plt
-import json
 
 def jaccard(a,b):
     return float(len(set.intersection(*[set(a), set(b)])))/float(len(set.union(*[set(a), set(b)])))
