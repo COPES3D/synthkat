@@ -9,10 +9,10 @@ Project files and algorithms are available for use under the
 GNU Public License v. 3.0.
 
 The current pilot script uses the following libraries:
+- [gensim](https://radimrehurek.com/gensim/)
+- [matplotlib](https://matplotlib.org/)
 - [numpy](https://www.numpy.org)
 - [scipy](https://www.scipy.org)
-- [gensim](https://radimrehurek.com/gensim/)
-- [matplotlub.pyplot](https://matplotlib.org/)
 
 Synthkat is a work in progress. Initial focus has been on
 second- and first-century BCE Italy, but the design of
