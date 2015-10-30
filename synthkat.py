@@ -1,3 +1,4 @@
+import gensim
 from gensim import corpora, models, similarities
 import csv
 import numpy
