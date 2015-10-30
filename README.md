@@ -1,6 +1,6 @@
 #synthkat
 
-##Synthetic Categories for Vessel Comparison
+##Synthetic Categories for Archaeological Vessel Comparison
 
 Synthkat is a computational initiative to construct flexible,
 synthetic categories of established ceramic and glass vessel
