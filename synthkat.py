@@ -183,5 +183,38 @@ for filename in files:
         for j in range(len(dist)):
             x[i,j] = 1 - dist[i,j]
 
-    #Start cluster analysis
-    wmat = ward(x)
+    distmethod = ['cosinesim','jaccard']
+
+    for method in distmethod:
+        #Change similarities to distances
+        dist = numpy.genfromtxt('{0}-{1}.csv'.format(filename,method), delimiter = ',')
+        x = numpy.zeros_like(dist)
+        for i in range(len(dist)):
+            for j in range(len(dist)):
+                x[i,j] = 1 - dist[i,j]
+
+        #Start cluster analysis
+        wmat = ward(x)
+
+        max_d = 2
+
+        fancy_dendrogram(
+            wmat,
+            truncate_mode='lastp',
+            p = 200,
+            leaf_rotation= 90.,
+            leaf_font_size=12.,
+            show_contracted = True,
+            annotate_above=2,
+            max_d=max_d,
+            )
+
+        plt.savefig('{}-{}-clusters.png'.format(filename,method), dpi=200) #save figure as ward_clusters
+        plt.clf()
+
+        kats = fcluster(wmat,  max_d, criterion='distance')
+        print("Creating KATS {0} - {1}".format(filename,method))
+        with open('kats-{0}-{1}.csv'.format(filename,method), 'w', newline='') as file:
+            writer = csv.writer(file)
+            for row in sorted(zip(kats,titles)):
+                writer.writerow(row)
