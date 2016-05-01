@@ -11,7 +11,7 @@ GNU Public License v. 3.0.
 The current pilot script uses the following libraries:
 - [gensim](https://radimrehurek.com/gensim/)
 - [matplotlib](http://matplotlib.org/)
-- [numpy](https://www.numpy.org)
+- [numpy](http://www.numpy.org)
 - [scipy](https://www.scipy.org)
 
 Synthkat is a work in progress. Initial focus has been on
