@@ -10,7 +10,7 @@ GNU Public License v. 3.0.
 
 The current pilot script uses the following libraries:
 - [gensim](https://radimrehurek.com/gensim/)
-- [matplotlib](matplotlib.org/)
+- [matplotlib](http://matplotlib.org/)
 - [numpy](https://www.numpy.org)
 - [scipy](https://www.scipy.org)
 
