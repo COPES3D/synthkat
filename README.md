@@ -20,4 +20,5 @@ Stephen Collins-Elliott
 Department of Classics, University of Tennessee, Knoxville
 
 1 May 2016
+
 Knoxville, Tennessee
