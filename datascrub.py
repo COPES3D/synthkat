@@ -1,38 +1,15 @@
 import csv
 import numpy
 
-#Scrub preliminary csv data to produce csv, json, and txt versions of vessel sets
-
-addrelform = []
-addrelware = []
-
-with open('addrelform.csv', 'r') as file:
-    reader = csv.reader(file)
-    for line in reader:
-        while line.count("") > 0:
-            line.remove("")
-        addrelform = addrelform + [line]
-with open('addrelware.csv', 'r') as file:
-    reader = csv.reader(file)
-    for line in reader:
-        while line.count("") > 0:
-            line.remove("")
-        addrelware = addrelware + [line]
-
 a = [] #ware
 b = [] #form
 
+#Scrub raw entries in csv for both vessel ware and form
 with open('prelim-ware.csv', 'r') as file:
     reader = csv.reader(file)
     for line in reader:
         while line.count("") > 0:
             line.remove("")
-        for i in line:
-            for j in addrelware:
-                if i == j[0]:
-                    for k in j[1:]:
-                        if k not in line:
-                            line = line + [k]
         a = a + [line]
 
 with open('prelim-form.csv', 'r') as file:
@@ -40,12 +17,6 @@ with open('prelim-form.csv', 'r') as file:
     for line in reader:
         while line.count("") > 0:
             line.remove("")
-        for i in line:
-            for j in addrelform:
-                if i == j[0]:
-                    for k in j[1:]:
-                        if k not in line:
-                            line = line + [k]
         b = b + [line]
 
 #Filter out most typological ids from ware, Remove duplicates
