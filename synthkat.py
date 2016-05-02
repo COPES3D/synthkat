@@ -18,9 +18,6 @@ def fancy_dendrogram(*args, **kwargs):
     annotate_above = kwargs.pop('annotate_above', 0)
     ddata = dendrogram(*args, **kwargs)
     if not kwargs.get('no_plot', False):
-#        plt.title('Hierarchical Clustering Dendrogram (truncated)')
-#        plt.xlabel('sample index or (cluster size)')
-#        plt.ylabel('distance')
         for i, d, c in zip(ddata['icoord'], ddata['dcoord'], ddata['color_list']):
             x = 0.5 * sum(i[1:3])
             y = d[1]
@@ -35,7 +32,7 @@ def fancy_dendrogram(*args, **kwargs):
 
 #Enter data as txt files. See datascrub.py for processing of csv files.
 
-files = ['byware.txt','byform.txt']
+files = ['pilot-ware.txt','pilotform.txt']
 
 print("Starting to calculate distance matrices.\n")
 for filename in files:
@@ -52,14 +49,7 @@ for filename in files:
         w = csv.writer(file)
         w.writerows(dictionary.token2id.items())
 
-    #corpus_memory_friendly = MyCorpus()
     corpus = MyCorpus()
-    #corpora.MmCorpus.serialize('corpus.mm', corpus)
-
-    #Perform tf-idf on the corpus
-    #tfidf = models.TfidfModel(corpus)
-    #corpus_tfidf = tfidf[corpus]
-    #corpus = corpus_tfidf
 
     #create matrix of jaccard values
     with open('{}-jaccard.csv'.format(filename), 'w', newline='') as file:
