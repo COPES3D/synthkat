@@ -100,7 +100,7 @@ for filename in files:
         #Start cluster analysis
         wmat = ward(x)
 
-        max_d = 2
+        max_d = 10
 
         fancy_dendrogram(
             wmat,
