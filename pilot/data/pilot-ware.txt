@@ -1277,7 +1277,7 @@ Settefinestre_45.5 ceramica_a_pareti_sottili thin-walled_ware unslipped tablewar
 Marabini_46 ceramica_a_pareti_sottili thin-walled_ware unslipped tableware fineware       
 Marabini_68 ceramica_a_pareti_sottili thin-walled_ware unslipped tableware fineware       
 Settefinestre_45.6 ceramica_a_pareti_sottili thin-walled_ware unslipped tableware fineware       
-Luni_II_109.8 terra_sigillata_à_la_barbotine terra_sigillata slipped tableware fineware       
+Luni_II_109.8 terra_sigillata_Å•_la_barbotine terra_sigillata slipped tableware fineware       
 Luni_II_122.1 ceramica_a_patina_cenerognola unslipped          
 Luni_II_125.13 ceramica_comune unslipped          
 Luni_II_129.1 ceramica_comune unslipped recipiente         
