@@ -6,24 +6,24 @@ Pompei_VI.5_CE_1030 Morel_2566 coppa cup bowl schale coupe open forma_aperta
 Pompei_VI.5_CE_1053 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_1086 Morel_2825d coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_1170 Morel_1315d coppa cup bowl schale coupe open forma_aperta              
-Pompei_VI.5_CE_1171 Morel_2255f1 Morel_2200 patère patera Morel_2255                 
+Pompei_VI.5_CE_1171 Morel_2255f1 Morel_2200 patÃ¨re patera Morel_2255                 
 Pompei_VI.5_CE_1172 Morel_2433g1 Morel_2433 coppetta open forma_aperta                 
 Pompei_VI.5_CE_1173 Morel_8212 askos                    
 Pompei_VI.5_CE_1174 Morel_5422a1 lekythos                    
 Pompei_VI.5_CE_1243 coppa Morel_2644a Morel_2644 Lamboglia_28 cup bowl schale coupe open forma_aperta            
 Pompei_VI.5_CE_1244 Morel_9132a coperchio                    
 Pompei_VI.5_CE_1261 coppa Morel_2786 Lamboglia_24 cup bowl schale coupe open forma_aperta             
-Pompei_VI.5_CE_1287 patère patera Morel_2253 Morel_2200                  
+Pompei_VI.5_CE_1287 patÃ¨re patera Morel_2253 Morel_2200                  
 Pompei_VI.5_CE_129 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_130.2 Morel_2822b coppa cup bowl schale coupe open forma_aperta              
-Pompei_VI.5_CE_1302 patère patera Morel_2252e Morel_2252 Morel_2200                 
-Pompei_VI.5_CE_1303 patère patera Morel_2264 Morel_2200                  
+Pompei_VI.5_CE_1302 patÃ¨re patera Morel_2252e Morel_2252 Morel_2200                 
+Pompei_VI.5_CE_1303 patÃ¨re patera Morel_2264 Morel_2200                  
 Pompei_VI.5_CE_1306 Morel_2751a coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_131 Lamboglia_27                     
 Pompei_VI.5_CE_1313 Morel_2730 coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_1315 Morel_3221c coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_1316 Morel_7212a1 boccale                    
-Pompei_VI.5_CE_1317 patère patera Morel_2212 Morel_2200                  
+Pompei_VI.5_CE_1317 patÃ¨re patera Morel_2212 Morel_2200                  
 Pompei_VI.5_CE_1318 Morel_2153 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
 Pompei_VI.5_CE_1319 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_1320 Morel_7111 bombylios                    
@@ -81,7 +81,7 @@ Pompei_VI.5_CE_1542.4 Sparkes-Talcott_398 kylix_su_alto_piede kylix open stemmed
 Pompei_VI.5_CE_1542.5 Morel_1224a1 coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_1542.6 Morel_2551 coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_1542.7 coppa vaso_modanato cup bowl schale coupe open forma_aperta              
-Pompei_VI.5_CE_1542.8 patère patera Morel_2252e Morel_2252 Morel_2200                 
+Pompei_VI.5_CE_1542.8 patÃ¨re patera Morel_2252e Morel_2252 Morel_2200                 
 Pompei_VI.5_CE_1603 Morel_2153 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
 Pompei_VI.5_CE_1603.1 Morel_2152 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
 Pompei_VI.5_CE_1642.2 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
@@ -91,17 +91,17 @@ Pompei_VI.5_CE_1680 Morel_2973c coppa cup bowl schale coupe open forma_aperta
 Pompei_VI.5_CE_1694 coppa cup bowl schale coupe open forma_aperta               
 Pompei_VI.5_CE_1717 Morel_3451 boccale                    
 Pompei_VI.5_CE_1717.2 Morel_2575 vaso_modanato coppa cup bowl schale coupe open forma_aperta             
-Pompei_VI.5_CE_1762.2 patère patera Morel_2253 Morel_2200                  
-Pompei_VI.5_CE_1771 patère patera Morel_2252e Morel_2252 Morel_2200                 
-Pompei_VI.5_CE_1771.1 patère patera Morel_2284d1 Morel_2200                  
+Pompei_VI.5_CE_1762.2 patÃ¨re patera Morel_2253 Morel_2200                  
+Pompei_VI.5_CE_1771 patÃ¨re patera Morel_2252e Morel_2252 Morel_2200                 
+Pompei_VI.5_CE_1771.1 patÃ¨re patera Morel_2284d1 Morel_2200                  
 Pompei_VI.5_CE_1771.6 Lamboglia_27                     
-Pompei_VI.5_CE_1789 Morel_2263 Morel_2200 patère patera                  
+Pompei_VI.5_CE_1789 Morel_2263 Morel_2200 patÃ¨re patera                  
 Pompei_VI.5_CE_180 Morel_7512a pyxis                    
 Pompei_VI.5_CE_1806 Morel_2942 coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_182 Morel_2551 coppa cup bowl schale coupe open forma_aperta              
-Pompei_VI.5_CE_1839 patère patera Morel_2256b1 Morel_2256 Morel_2200                 
+Pompei_VI.5_CE_1839 patÃ¨re patera Morel_2256b1 Morel_2256 Morel_2200                 
 Pompei_VI.5_CE_1839.2 Morel_7111 bombylios                    
-Pompei_VI.5_CE_1840 patère patera Morel_2253 Morel_2200                  
+Pompei_VI.5_CE_1840 patÃ¨re patera Morel_2253 Morel_2200                  
 Pompei_VI.5_CE_1841 Morel_7514a pyxis                    
 Pompei_VI.5_CE_1846 Morel_2825c coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_1848 Morel_7111 bombylios                    
@@ -111,12 +111,12 @@ Pompei_VI.5_CE_1915 lekythos
 Pompei_VI.5_CE_1916 Morel_7713a calamaio                    
 Pompei_VI.5_CE_1925 Morel_2825a coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_1928 Morel_1312b coppa cup bowl schale coupe open forma_aperta              
-Pompei_VI.5_CE_1929 patère patera Morel_2234g Morel_2234 Morel_2200                 
+Pompei_VI.5_CE_1929 patÃ¨re patera Morel_2234g Morel_2234 Morel_2200                 
 Pompei_VI.5_CE_194 coppa Pompei_VI.5_CE_687.1 cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_1951 Morel_4246 kylix_su_passo_piede kylix open stemmed_cup forma_aperta                
 Pompei_VI.5_CE_1958 Morel_2554 coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_1979 Morel_2787 coppa cup bowl schale coupe open forma_aperta              
-Pompei_VI.5_CE_1996 patère patera Morel_2252e Morel_2252                  
+Pompei_VI.5_CE_1996 patÃ¨re patera Morel_2252e Morel_2252                  
 Pompei_VI.5_CE_200 Lamboglia_27                     
 Pompei_VI.5_CE_201 Morel_2787h coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_202 Lamboglia_27                     
@@ -136,7 +136,7 @@ Pompei_VI.5_CE_2168 Morel_1514 coppa cup bowl schale coupe open forma_aperta
 Pompei_VI.5_CE_2169 Morel_7111 bombylios                    
 Pompei_VI.5_CE_217 Morel_2725 Lamboglia_24                    
 Pompei_VI.5_CE_2170 Morel_1315d coppa cup bowl schale coupe open forma_aperta              
-Pompei_VI.5_CE_2171 patère patera Morel_2252e Morel_2252 Morel_2200                 
+Pompei_VI.5_CE_2171 patÃ¨re patera Morel_2252e Morel_2252 Morel_2200                 
 Pompei_VI.5_CE_2172 Morel_2751g coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_2173 Morel_5211b1 boccale_monoansato boccale                   
 Pompei_VI.5_CE_2177 calamaio                     
@@ -169,7 +169,7 @@ Pompei_VI.5_CE_222 coppa vaso_modanato cup bowl schale coupe open forma_aperta
 Pompei_VI.5_CE_223 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_224 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_225 kylix open stemmed_cup forma_aperta                  
-Pompei_VI.5_CE_226 Morel_2243 Morel_2200 patère patera                  
+Pompei_VI.5_CE_226 Morel_2243 Morel_2200 patÃ¨re patera                  
 Pompei_VI.5_CE_284 Morel_2152 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
 Pompei_VI.5_CE_285 Morel_2152 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
 Pompei_VI.5_CE_292 kantharos                     
@@ -177,7 +177,7 @@ Pompei_VI.5_CE_333 forma_aperta open aperta
 Pompei_VI.5_CE_335 coppa cup bowl schale coupe open forma_aperta               
 Pompei_VI.5_CE_336 Morel_2787 coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_337 coppa cup bowl schale coupe open forma_aperta               
-Pompei_VI.5_CE_338 patère patera Morel_2252e Morel_2252 Morel_2200                 
+Pompei_VI.5_CE_338 patÃ¨re patera Morel_2252e Morel_2252 Morel_2200                 
 Pompei_VI.5_CE_339.5 forma_aperta open aperta                   
 Pompei_VI.5_CE_367 Morel_4342 skyphos                    
 Pompei_VI.5_CE_368 Morel_9112a coperchio                    
@@ -224,7 +224,7 @@ Pompei_VI.5_CE_634 Morel_2973c coppa cup bowl schale coupe open forma_aperta
 Pompei_VI.5_CE_635 Morel_2153 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
 Pompei_VI.5_CE_636 Morel_2121 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
 Pompei_VI.5_CE_637 Morel_2981b coppa cup bowl schale coupe open forma_aperta              
-Pompei_VI.5_CE_677 Morel_2243 Morel_2200 patère patera                  
+Pompei_VI.5_CE_677 Morel_2243 Morel_2200 patÃ¨re patera                  
 Pompei_VI.5_CE_687.1 coppa Pompei_VI.5_CE_194 cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_7 coppa cup bowl schale coupe open forma_aperta               
 Pompei_VI.5_CE_707 Morel_2762 coppa cup bowl schale coupe open forma_aperta              
@@ -246,16 +246,16 @@ Pompei_VI.5_CE_739 Morel_2152 vaso_apodo coppa cup bowl schale coupe open forma_
 Pompei_VI.5_CE_793 Morel_2554 coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_794 Morel_1315d coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_796 Morel_8151 guttus                    
-Pompei_VI.5_CE_797 Morel_2252e Morel_2200 patère patera Morel_2252                 
+Pompei_VI.5_CE_797 Morel_2252e Morel_2200 patÃ¨re patera Morel_2252                 
 Pompei_VI.5_CE_8 Morel_2789 coppa cup bowl schale coupe open forma_aperta              
-Pompei_VI.5_CE_887 Morel_2200 patère patera Morel_2253                  
+Pompei_VI.5_CE_887 Morel_2200 patÃ¨re patera Morel_2253                  
 Pompei_VI.5_CE_911 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_923 coppa cup bowl schale coupe open forma_aperta               
 Pompei_VI.5_CE_924 Morel_2614 coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_927.1 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
 Pompei_VI.5_CE_928 coppa cup bowl schale coupe open forma_aperta               
 Pompei_VI.5_CE_929 coppa Morel_2615a1 Morel_2615 cup bowl schale coupe open forma_aperta             
-Pompei_VI.5_CE_939 Morel_2252e Morel_2200 patère patera Morel_2252                 
+Pompei_VI.5_CE_939 Morel_2252e Morel_2200 patÃ¨re patera Morel_2252                 
 Pompei_VI.5_CE_96 coppa vaso_modanato Morel_2572 cup bowl schale coupe open forma_aperta             
 Pompei_VI.5_CE_279 tegame Pompei_VI.5_Tegame_1a pan open forma_aperta                 
 Pompei_VI.5_CE_549 tegame Pompei_VI.5_Tegame_1b pan open forma_aperta                 
@@ -726,7 +726,7 @@ San_Silvestro_CT_8 piccola_olla Luni_II_Group_35b Luni_II_133.4
 San_Silvestro_CT_9 olla Luni_II_Group_35a closed forma_chiusa                  
 San_Silvestro_GI_1 vasetto vasetto_biconicheggiante Arcelin_1981_Fig_19 Arcelin_1979_Fig_11.7 Arcelin_1979_Fig_11.9 Arcelin_1979_Fig_11.10 _provenzale Arcelin_Type_1a              
 San_Silvestro_GI_2 vasetto vasetto_biconicheggiante San_Silvestro_GI_1                   
-San_Silvestro_GI_3 Provençal_Form_1 Container                    
+San_Silvestro_GI_3 ProvenÃ§al_Form_1 Container                    
 San_Silvestro_GI_4 San_Silvestro_GI_3                     
 San_Silvestro_GL_1 coperchio D'Ambrosio_1985_Fig_15.17 Milanese_1987_Fig_82.271                   
 San_Silvestro_GL_10 coperchio San_Silvestro_GL_8                    
@@ -1257,7 +1257,7 @@ Goudineau_29b coppa cup bowl schale coupe open forma_aperta
 Goudineau_32b coppa Goudineau_32 Conspectus_31 cup bowl schale coupe open forma_aperta             
 Goudineau_37 Goudineau_40 coppa coupe grande_coupe Conspectus_23.2 cup bowl schale open forma_aperta            
 Goudineau_38b coppa Goudineau_38 Conspectus_34 cup bowl schale coupe open forma_aperta             
-Goudineau_41 coppa coupe coupe_carénée cup bowl schale open forma_aperta              
+Goudineau_41 coppa coupe coupe_carÃ©nÃ©e cup bowl schale open forma_aperta              
 Settefinestre_43.1 Goudineau_1 piatto plat assiette teller platter plate platte open forma_aperta            
 Marabini_19 Ricci_2.138 coppa cup bowl schale coupe open forma_aperta              
 Marabini_64 Ricci_2.242 coppa cup bowl schale coupe open forma_aperta              
@@ -1351,7 +1351,7 @@ Vegas_1973_Type_1.1 olla Vegas_1973_Type_1 closed forma_chiusa
 Vegas_1973_Type_1.4 olla Vegas_1973_Type_1 closed forma_chiusa                  
 Vegas_1973_Type_2.2 olla Vegas_1973_Type_1 closed forma_chiusa                  
 Vegas_1973_Type_4.5 Vegas_1973_Type_4 cuenco bowl cazuela casserole pot stewpot cup coppa schale coupe open forma_aperta         
-Vegas_1973_Type_58 ánfora anfora transport_amphora amphora closed forma_chiusa                
+Vegas_1973_Type_58 Ã¡nfora anfora transport_amphora amphora closed forma_chiusa                
 Vegas_1973_Type_38.11 jarra jarra_de_una_asa Vegas_1973_Type_38                   
 Vegas_1973_Type_1.15 olla Vegas_1973_Type_1 closed forma_chiusa                  
 Vegas_1973_Type_14 plato                     
