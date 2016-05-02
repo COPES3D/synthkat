@@ -4,7 +4,8 @@ import numpy
 a = [] #ware
 b = [] #form
 
-#Scrub raw entries in csv for both vessel ware and form
+#Scrub raw entries in csv for both vessel ware and form to eliminate duplicate entries, filter out typological labels from vessel class ids.
+
 with open('prelim-ware.csv', 'r') as file:
     reader = csv.reader(file)
     for line in reader:
