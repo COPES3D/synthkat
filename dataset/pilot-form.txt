@@ -1,0 +1,1492 @@
+Pompei_VI.5_CE_1001 Morel_2942 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1017 Morel_2615b1 Morel_2615 Lamboglia_28                   
+Pompei_VI.5_CE_1017.1 Morel_1312b coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1018 Morel_1514 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1030 Morel_2566 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1053 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1086 Morel_2825d coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1170 Morel_1315d coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1171 Morel_2255f1 Morel_2200 patère patera Morel_2255                 
+Pompei_VI.5_CE_1172 Morel_2433g1 Morel_2433 coppetta open forma_aperta                 
+Pompei_VI.5_CE_1173 Morel_8212 askos                    
+Pompei_VI.5_CE_1174 Morel_5422a1 lekythos                    
+Pompei_VI.5_CE_1243 coppa Morel_2644a Morel_2644 Lamboglia_28 cup bowl schale coupe open forma_aperta            
+Pompei_VI.5_CE_1244 Morel_9132a coperchio                    
+Pompei_VI.5_CE_1261 coppa Morel_2786 Lamboglia_24 cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_1287 patère patera Morel_2253 Morel_2200                  
+Pompei_VI.5_CE_129 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_130.2 Morel_2822b coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1302 patère patera Morel_2252e Morel_2252 Morel_2200                 
+Pompei_VI.5_CE_1303 patère patera Morel_2264 Morel_2200                  
+Pompei_VI.5_CE_1306 Morel_2751a coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_131 Lamboglia_27                     
+Pompei_VI.5_CE_1313 Morel_2730 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1315 Morel_3221c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1316 Morel_7212a1 boccale                    
+Pompei_VI.5_CE_1317 patère patera Morel_2212 Morel_2200                  
+Pompei_VI.5_CE_1318 Morel_2153 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_1319 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1320 Morel_7111 bombylios                    
+Pompei_VI.5_CE_1322.1 Morel_1315a1 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1322.2 Morel_5422c1 lekythos                    
+Pompei_VI.5_CE_1322.3 Morel_5281b brocca closed forma_chiusa                  
+Pompei_VI.5_CE_1322.5 Pasquinucci_152                     
+Pompei_VI.5_CE_1323.1 Morel_2787 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1323.10 Morel_2825c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1323.11 Morel_2730 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1323.12 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1323.13 patera Lamboglia_1 Morel_2312 Morel_2300                  
+Pompei_VI.5_CE_1323.14 Morel_2152 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_1323.15 Morel_2812a coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1323.16 Morel_2812c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1323.2 Morel_2614 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1323.3 Lamboglia_27c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1323.4 Morel_2787a coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1323.5 patera Lamboglia_1 Morel_2323i Morel_2300                  
+Pompei_VI.5_CE_1323.6 Morel_13150 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1323.7 Morel_2786 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1323.8 patera Lamboglia_1 Morel_2311 Morel_2300                  
+Pompei_VI.5_CE_1323.9 coppa vaso_modanatto Morel_2575 cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_1324.10 Morel_2787h coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1324.11 Morel_2787 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1324.12 Morel_2787 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1324.13 Morel_2153 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_1324.2 Morel_2713a1 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1324.8 skyphos                     
+Pompei_VI.5_CE_1324.9 boccale Morel_3421a1                    
+Pompei_VI.5_CE_134 coppetta Morel_2435d1 Morel_2435 open forma_aperta                 
+Pompei_VI.5_CE_135 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_136 Morel_2575 vaso_modanato Pompei_VI.5_CE_371 Pompei_VI.5_CE_1717.2                  
+Pompei_VI.5_CE_137 Sparkes-Talcott_469 kylix_su_passo_piede kylix open stemmed_cup forma_aperta                
+Pompei_VI.5_CE_1390 Morel_2152 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_1390.1 Morel_4126a1 skyphos                    
+Pompei_VI.5_CE_1390.2 Morel_4126a1 skyphos                    
+Pompei_VI.5_CE_1390.2a Morel_2152 vaso_apodo                    
+Pompei_VI.5_CE_1424 Morel_3221c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1424.1 Morel_3421a1 boccale                    
+Pompei_VI.5_CE_1424.3 Morel_2787 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1424.4 Morel_4362 skyphos                    
+Pompei_VI.5_CE_1446 Morel_5416d lekythos                    
+Pompei_VI.5_CE_1446.1 Morel_5422 lekythos lekythos_aryballikos                   
+Pompei_VI.5_CE_1461 Morel_2812b coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_151 Morel_2551 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1512.4 Sparkes-Talcott_398 kylix_su_alto_piede kylix open stemmed_cup forma_aperta                
+Pompei_VI.5_CE_1519 Morel_2973b coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1526 Morel_1315d coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_153 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_154 Morel_2787 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1542 coppa vaso_modanato Morel_2572 cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_1542.3 Morel_2573 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1542.4 Sparkes-Talcott_398 kylix_su_alto_piede kylix open stemmed_cup forma_aperta                
+Pompei_VI.5_CE_1542.5 Morel_1224a1 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1542.6 Morel_2551 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1542.7 coppa vaso_modanato cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1542.8 patère patera Morel_2252e Morel_2252 Morel_2200                 
+Pompei_VI.5_CE_1603 Morel_2153 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_1603.1 Morel_2152 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_1642.2 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1654 Morel_7712c calamaio                    
+Pompei_VI.5_CE_1655 Morel_7121a1 bottiglia bottle closed forma_chiusa                 
+Pompei_VI.5_CE_1680 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1694 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_1717 Morel_3451 boccale                    
+Pompei_VI.5_CE_1717.2 Morel_2575 vaso_modanato coppa cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_1762.2 patère patera Morel_2253 Morel_2200                  
+Pompei_VI.5_CE_1771 patère patera Morel_2252e Morel_2252 Morel_2200                 
+Pompei_VI.5_CE_1771.1 patère patera Morel_2284d1 Morel_2200                  
+Pompei_VI.5_CE_1771.6 Lamboglia_27                     
+Pompei_VI.5_CE_1789 Morel_2263 Morel_2200 patère patera                  
+Pompei_VI.5_CE_180 Morel_7512a pyxis                    
+Pompei_VI.5_CE_1806 Morel_2942 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_182 Morel_2551 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1839 patère patera Morel_2256b1 Morel_2256 Morel_2200                 
+Pompei_VI.5_CE_1839.2 Morel_7111 bombylios                    
+Pompei_VI.5_CE_1840 patère patera Morel_2253 Morel_2200                  
+Pompei_VI.5_CE_1841 Morel_7514a pyxis                    
+Pompei_VI.5_CE_1846 Morel_2825c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1848 Morel_7111 bombylios                    
+Pompei_VI.5_CE_1878 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1914 Morel_2121 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_1915 lekythos                     
+Pompei_VI.5_CE_1916 Morel_7713a calamaio                    
+Pompei_VI.5_CE_1925 Morel_2825a coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1928 Morel_1312b coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1929 patère patera Morel_2234g Morel_2234 Morel_2200                 
+Pompei_VI.5_CE_194 coppa Pompei_VI.5_CE_687.1 cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1951 Morel_4246 kylix_su_passo_piede kylix open stemmed_cup forma_aperta                
+Pompei_VI.5_CE_1958 Morel_2554 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1979 Morel_2787 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1996 patère patera Morel_2252e Morel_2252                  
+Pompei_VI.5_CE_200 Lamboglia_27                     
+Pompei_VI.5_CE_201 Morel_2787h coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_202 Lamboglia_27                     
+Pompei_VI.5_CE_206 Lamboglia_27                     
+Pompei_VI.5_CE_2060 coppa vaso_modanato cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2061 coppa vaso_modanato Morel_2554 cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_207 Lamboglia_27                     
+Pompei_VI.5_CE_209 Morel_2551 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_213 Morel_2973a coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_214 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_215 Morel_1314b1 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_216 Morel_2742a1 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2164 Morel_4363 skyphos                    
+Pompei_VI.5_CE_2165 Morel_4363 skyphos                    
+Pompei_VI.5_CE_2167 Morel_2825a coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2168 Morel_1514 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2169 Morel_7111 bombylios                    
+Pompei_VI.5_CE_217 Morel_2725 Lamboglia_24                    
+Pompei_VI.5_CE_2170 Morel_1315d coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2171 patère patera Morel_2252e Morel_2252 Morel_2200                 
+Pompei_VI.5_CE_2172 Morel_2751g coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2173 Morel_5211b1 boccale_monoansato boccale                   
+Pompei_VI.5_CE_2177 calamaio                     
+Pompei_VI.5_CE_2178 Morel_2787a coppa Pompei_VI.5_CE_1323.4 cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_2179 Morel_2978a coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_218 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2180 Morel_2977 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2182 Morel_1315d coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2184 Morel_1312b coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2185 Morel_2152 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_2186 Morel_2152 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_2187 Morel_2152 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_2189 Morel_2788 Morel_2788e1 Lamboglia_24 coppa cup bowl schale coupe open forma_aperta            
+Pompei_VI.5_CE_219 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2191 Morel_2825a coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2192 coppa vaso_modanato Morel_2572 cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_2193 Morel_3131a coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2194 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_2196 Sparkes-Talcott_398 kylix_su_alto_piede kylix open stemmed_cup forma_aperta                
+Pompei_VI.5_CE_2198 coppa vaso_modanato Morel_2572 cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_220 Morel_2812b coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2200 Morel_8151 guttus                    
+Pompei_VI.5_CE_2201 Morel_2971 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2202 Morel_4362 skyphos                    
+Pompei_VI.5_CE_2203 Morel_2152 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_2206 Morel_2825a coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2207 Morel_2825a coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_221 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_222 coppa vaso_modanato cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_223 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_224 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_225 kylix open stemmed_cup forma_aperta                  
+Pompei_VI.5_CE_226 Morel_2243 Morel_2200 patère patera                  
+Pompei_VI.5_CE_284 Morel_2152 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_285 Morel_2152 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_292 kantharos                     
+Pompei_VI.5_CE_333 forma_aperta open aperta                   
+Pompei_VI.5_CE_335 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_336 Morel_2787 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_337 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_338 patère patera Morel_2252e Morel_2252 Morel_2200                 
+Pompei_VI.5_CE_339.5 forma_aperta open aperta                   
+Pompei_VI.5_CE_367 Morel_4342 skyphos                    
+Pompei_VI.5_CE_368 Morel_9112a coperchio                    
+Pompei_VI.5_CE_369 Morel_1314 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_370 Morel_2981a coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_371 Morel_2575 coppa vaso_modanato cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_373 Lamboglia_27                     
+Pompei_VI.5_CE_374 Morel_1333b coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_375 Morel_1122a1 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_376 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_377 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_380 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_381 Morel_4375a1 skyphos                    
+Pompei_VI.5_CE_382 coppa Pompei_VI.5_CE_434 Pompei_VI.5_CE_451 cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_383 Morel_2787h coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_384 Morel_3221c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_386 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_387 Morel_2812b coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_421 Morel_2751g coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_434 coppa Pompei_VI.5_CE_451 Pompei_VI.5_CE_382 cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_446 Morel_4341 skyphos                    
+Pompei_VI.5_CE_447 Morel_4374 skyphos                    
+Pompei_VI.5_CE_451 coppa Pompei_VI.5_CE_382 Pompei_VI.5_CE_434 cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_452 Sparkes-Talcott_469 kylix_su_passo_piede kylix open stemmed_cup forma_aperta                
+Pompei_VI.5_CE_468 Morel_1315d coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_515 Morel_2151c1 Morel_2151 vaso_apodo coppa cup bowl schale coupe open forma_aperta            
+Pompei_VI.5_CE_516 Morel_2812b                     
+Pompei_VI.5_CE_517 Morel_13150 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_518 Morel_1276a coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_519 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_520 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_521 Morel_2812b coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_522 Morel_2153 vaso_apodo                    
+Pompei_VI.5_CE_523 Morel_1514 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_524 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_525 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_526 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_527 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_528 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_529 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_536 Morel_5422 lekythos                    
+Pompei_VI.5_CE_608 Morel_8173a guttus                    
+Pompei_VI.5_CE_634 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_635 Morel_2153 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_636 Morel_2121 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_637 Morel_2981b coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_677 Morel_2243 Morel_2200 patère patera                  
+Pompei_VI.5_CE_687.1 coppa Pompei_VI.5_CE_194 cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_7 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_707 Morel_2762 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_721 Morel_1312b coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_722 Morel_1312 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_723 Morel_1122a1 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_724 Morel_2587b1 coppa vaso_modanato cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_725 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_726 Morel_2614 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_727 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_728 Morel_2787 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_730 Morel_2762d coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_732 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_735 Morel_2973a coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_737 Morel_2787h coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_737.1 coppa Morel_2573 vaso_modanato cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_738 coppa vaso_modanato Morel_2572 cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_739 Morel_2152 vaso_apodo coppa cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_793 Morel_2554 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_794 Morel_1315d coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_796 Morel_8151 guttus                    
+Pompei_VI.5_CE_797 Morel_2252e Morel_2200 patère patera Morel_2252                 
+Pompei_VI.5_CE_8 Morel_2789 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_887 Morel_2200 patère patera Morel_2253                  
+Pompei_VI.5_CE_911 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_923 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_924 Morel_2614 coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_927.1 Morel_2973c coppa cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_928 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_929 coppa Morel_2615a1 Morel_2615 cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_939 Morel_2252e Morel_2200 patère patera Morel_2252                 
+Pompei_VI.5_CE_96 coppa vaso_modanato Morel_2572 cup bowl schale coupe open forma_aperta             
+Pompei_VI.5_CE_279 tegame Pompei_VI.5_Tegame_1a pan open forma_aperta                 
+Pompei_VI.5_CE_549 tegame Pompei_VI.5_Tegame_1b pan open forma_aperta                 
+Pompei_VI.5_CE_231 tegame Pompei_VI.5_Tegame_1c pan open forma_aperta                 
+Pompei_VI.5_CE_550 tegame Pompei_VI.5_Tegame_1c pan open forma_aperta                 
+Pompei_VI.5_CE_1331 tegame Pompei_VI.5_Tegame_1c pan open forma_aperta                 
+Pompei_VI.5_CE_277 tegame Pompei_VI.5_Tegame_1c pan open forma_aperta                 
+Pompei_VI.5_CE_273 tegame Pompei_VI.5_Tegame_2 pan open forma_aperta                 
+Pompei_VI.5_CE_1338 tegame Pompei_VI.5_Tegame_2 pan open forma_aperta                 
+Pompei_VI.5_CE_1423.4 tegame Pompei_VI.5_Tegame_2 pan open forma_aperta                 
+Pompei_VI.5_CE_177 tegame Pompei_VI.5_Tegame_3 pan open forma_aperta                 
+Pompei_VI.5_CE_162 tegame Pompei_VI.5_Tegame_3 pan open forma_aperta                 
+Pompei_VI.5_CE_1330.2 tegame Pompei_VI.5_Tegame_4a pan open forma_aperta                 
+Pompei_VI.5_CE_1334 tegame Pompei_VI.5_Tegame_4b pan open forma_aperta                 
+Pompei_VI.5_CE_1124 tegame Pompei_VI.5_Tegame_4b pan open forma_aperta                 
+Pompei_VI.5_CE_1332 tegame Pompei_VI.5_Tegame_4b pan open forma_aperta                 
+Pompei_VI.5_CE_1332.2 tegame Pompei_VI.5_Tegame_4b pan open forma_aperta                 
+Pompei_VI.5_CE_1332.4 tegame Pompei_VI.5_Tegame_4b pan open forma_aperta                 
+Pompei_VI.5_CE_1381 tegame Pompei_VI.5_Tegame_4b pan open forma_aperta                 
+Pompei_VI.5_CE_79 tegame Pompei_VI.5_Tegame_4c pan open forma_aperta                 
+Pompei_VI.5_CE_1330.3 tegame Pompei_VI.5_Tegame_4c pan open forma_aperta                 
+Pompei_VI.5_CE_1124.1 tegame Pompei_VI.5_Tegame_4d pan open forma_aperta                 
+Pompei_VI.5_CE_1332.3 tegame Pompei_VI.5_Tegame_4d pan open forma_aperta                 
+Pompei_VI.5_CE_53 tegame Pompei_VI.5_Tegame_5a pan open forma_aperta                 
+Pompei_VI.5_CE_404 tegame Pompei_VI.5_Tegame_5a pan open forma_aperta                 
+Pompei_VI.5_CE_1130.3 tegame Pompei_VI.5_Tegame_5b pan open forma_aperta                 
+Pompei_VI.5_CE_105 tegame Pompei_VI.5_Tegame_6 pan open forma_aperta                 
+Pompei_VI.5_CE_557.1 tegame Pompei_VI.5_Tegame_6 pan open forma_aperta                 
+Pompei_VI.5_CE_694 tegame Pompei_VI.5_Tegame_7 pan open forma_aperta                 
+Pompei_VI.5_CE_1124.2 tegame Pompei_VI.5_Tegame_7 pan open forma_aperta                 
+Pompei_VI.5_CE_904 tegame Pompei_VI.5_Tegame_8 pan open forma_aperta                 
+Pompei_VI.5_CE_542.1 tegame Pompei_VI.5_Tegame_9 pan open forma_aperta                 
+Pompei_VI.5_CE_355 pentola zuppiera open forma_aperta                  
+Pompei_VI.5_CE_1122 pentola zuppiera open forma_aperta                  
+Pompei_VI.5_CE_1126 pentola zuppiera open forma_aperta                  
+Pompei_VI.5_CE_1127 pentola zuppiera open forma_aperta                  
+Pompei_VI.5_CE_408 pentola zuppiera open forma_aperta                  
+Pompei_VI.5_CE_2085 pentola zuppiera open forma_aperta                  
+Pompei_VI.5_CE_400 pentola zuppiera open forma_aperta                  
+Pompei_VI.5_CE_409 pentola zuppiera open forma_aperta                  
+Pompei_VI.5_CE_188 pentola zuppiera open forma_aperta                  
+Pompei_VI.5_CE_488 pentola zuppiera open forma_aperta                  
+Pompei_VI.5_CE_850 pentola zuppiera open forma_aperta                  
+Pompei_VI.5_CE_2228 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_2232 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_2237 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_123 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_420 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_492 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_507 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_582 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_1137 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_124.1 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_483.1 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_598.1 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_760 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_877 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_1141 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_2251 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_2093 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_2139 coppa cup bowl schale coupe open forma_aperta               
+Pompei_VI.5_CE_143 bacile mortaio Pompei_VI.5_CE_271 Pompei_VI.5_CE_556.1 Pompei_VI.5_Mortarium_1 mortarium                
+Pompei_VI.5_CE_271 bacile mortaio Pompei_VI.5_CE_143 Pompei_VI.5_CE_556.1 Pompei_VI.5_Mortarium_1 mortarium                
+Pompei_VI.5_CE_556.1 bacile mortaio Pompei_VI.5_CE_271 Pompei_VI.5_CE_143 Pompei_VI.5_Mortarium_1 mortarium                
+Pompei_VI.5_CE_1596.1 bacile mortaio Pompei_VI.5_CE_1826 Pompei_VI.5_CE_2099 Pompei_VI.5_CE_2518 Pompei_VI.5_CE_1568 Pompei_VI.5_Mortarium_2 mortarium              
+Pompei_VI.5_CE_1826 bacile mortaio Pompei_VI.5_CE_1596.1 Pompei_VI.5_CE_2099 Pompei_VI.5_CE_2518 Pompei_VI.5_CE_1568 Pompei_VI.5_Mortarium_2 mortarium              
+Pompei_VI.5_CE_2099 bacile mortaio Pompei_VI.5_CE_1596.1 Pompei_VI.5_CE_1826 Pompei_VI.5_CE_2518 Pompei_VI.5_CE_1568 Pompei_VI.5_Mortarium_2 mortarium              
+Pompei_VI.5_CE_2518 bacile mortaio Pompei_VI.5_CE_1596.1 Pompei_VI.5_CE_1826 Pompei_VI.5_CE_2099 Pompei_VI.5_CE_1568 Pompei_VI.5_Mortarium_2 mortarium              
+Pompei_VI.5_CE_1568 bacile mortaio Pompei_VI.5_CE_1596.1 Pompei_VI.5_CE_1826 Pompei_VI.5_CE_2099 Pompei_VI.5_CE_2518 Pompei_VI.5_Mortarium_2 mortarium              
+Pompei_VI.5_CE_120 bacile mortaio Pompei_VI.5_CE_264 Pompei_VI.5_Mortarium_3 mortarium                 
+Pompei_VI.5_CE_264 bacile mortaio Pompei_VI.5_CE_120 Pompei_VI.5_Mortarium_3 mortarium                 
+Pompei_VI.5_CE_1727.10 bacile mortaio Pompei_VI.5_CE_1942.2 Pompei_VI.5_CE_2131 Pompei_VI.5_Mortarium_4 mortarium                
+Pompei_VI.5_CE_1942.2 bacile mortaio Pompei_VI.5_CE_1727.10 Pompei_VI.5_CE_2131 Pompei_VI.5_Mortarium_4 mortarium                
+Pompei_VI.5_CE_2131 bacile mortaio Pompei_VI.5_CE_1727.10 Pompei_VI.5_CE_1942.2 Pompei_VI.5_Mortarium_4 mortarium                
+Pompei_VI.5_CE_1480 bacile mortaio Pompei_VI.5_CE_1524 Pompei_VI.5_Mortarium_5 mortarium                 
+Pompei_VI.5_CE_1524 bacile mortaio Pompei_VI.5_CE_1480 Pompei_VI.5_Mortarium_5 mortarium                 
+Pompei_VI.5_CE_112 bacile mortaio Pompei_VI.5_CE_543 Pompei_VI.5_CE_661 Pompei_VI.5_CE_1938 Pompei_VI.5_CE_2250 Pompei_VI.5_Mortarium_6 mortarium              
+Pompei_VI.5_CE_543 bacile mortaio Pompei_VI.5_CE_112 Pompei_VI.5_CE_661 Pompei_VI.5_CE_1938 Pompei_VI.5_CE_2250 Pompei_VI.5_Mortarium_6 mortarium              
+Pompei_VI.5_CE_661 bacile mortaio Pompei_VI.5_CE_112 Pompei_VI.5_CE_543 Pompei_VI.5_CE_1938 Pompei_VI.5_CE_2250 Pompei_VI.5_Mortarium_6 mortarium              
+Pompei_VI.5_CE_1938 bacile mortaio Pompei_VI.5_CE_112 Pompei_VI.5_CE_543 Pompei_VI.5_CE_661 Pompei_VI.5_CE_2250 Pompei_VI.5_Mortarium_6 mortarium              
+Pompei_VI.5_CE_2250 bacile mortaio Pompei_VI.5_CE_112 Pompei_VI.5_CE_543 Pompei_VI.5_CE_661 Pompei_VI.5_CE_1938 Pompei_VI.5_Mortarium_6 mortarium              
+Pompei_VI.5_CE_170 catino Pompei_VI.5_CE_616 Pompei_VI.5_CE_405 Pompei_VI.5_CE_764 Pompei_VI.5_CE_1516 Pompei_VI.5_CE_1874 Pompei_VI.5_CE_1876               
+Pompei_VI.5_CE_616 catino Pompei_VI.5_CE_170 Pompei_VI.5_CE_405 Pompei_VI.5_CE_764 Pompei_VI.5_CE_1516 Pompei_VI.5_CE_1874 Pompei_VI.5_CE_1876               
+Pompei_VI.5_CE_405 catino Pompei_VI.5_CE_170 Pompei_VI.5_CE_616 Pompei_VI.5_CE_764 Pompei_VI.5_CE_1516 Pompei_VI.5_CE_1874 Pompei_VI.5_CE_1876               
+Pompei_VI.5_CE_764 catino Pompei_VI.5_CE_170 Pompei_VI.5_CE_616 Pompei_VI.5_CE_405 Pompei_VI.5_CE_1516 Pompei_VI.5_CE_1874 Pompei_VI.5_CE_1876               
+Pompei_VI.5_CE_1516 catino Pompei_VI.5_CE_170 Pompei_VI.5_CE_616 Pompei_VI.5_CE_405 Pompei_VI.5_CE_764 Pompei_VI.5_CE_1874 Pompei_VI.5_CE_1876               
+Pompei_VI.5_CE_1874 catino Pompei_VI.5_CE_170 Pompei_VI.5_CE_616 Pompei_VI.5_CE_405 Pompei_VI.5_CE_764 Pompei_VI.5_CE_1516 Pompei_VI.5_CE_1876               
+Pompei_VI.5_CE_1876 catino Pompei_VI.5_CE_170 Pompei_VI.5_CE_616 Pompei_VI.5_CE_405 Pompei_VI.5_CE_764 Pompei_VI.5_CE_1516 Pompei_VI.5_CE_1874               
+Pompei_VI.5_CE_756 bicchiere                     
+Pompei_VI.5_CE_1293 olla Pompei_VI.5_Olla_1a closed forma_chiusa                  
+Pompei_VI.5_CE_1998.1 olla Pompei_VI.5_Olla_1a closed forma_chiusa                  
+Pompei_VI.5_CE_555.1 olla Pompei_VI.5_Olla_1b closed forma_chiusa                  
+Pompei_VI.5_CE_1827 olla Pompei_VI.5_Olla_1c closed forma_chiusa                  
+Pompei_VI.5_CE_117 olla Pompei_VI.5_Olla_2a closed forma_chiusa                  
+Pompei_VI.5_CE_233 olla Pompei_VI.5_Olla_2b closed forma_chiusa                  
+Pompei_VI.5_CE_122 olla Pompei_VI.5_Olla_2c closed forma_chiusa                  
+Pompei_VI.5_CE_1777.11 olla Pompei_VI.5_Olla_2c closed forma_chiusa                  
+Pompei_VI.5_CE_2254 olla Pompei_VI.5_Olla_2c closed forma_chiusa                  
+Pompei_VI.5_CE_2255 olla Pompei_VI.5_Olla_2c closed forma_chiusa                  
+Pompei_VI.5_CE_12.2 olla Pompei_VI.5_Olla_3a closed forma_chiusa                  
+Pompei_VI.5_CE_402 olla Pompei_VI.5_Olla_3a closed forma_chiusa                  
+Pompei_VI.5_CE_968 olla Pompei_VI.5_Olla_3a closed forma_chiusa                  
+Pompei_VI.5_CE_1777.12 olla Pompei_VI.5_Olla_3a closed forma_chiusa                  
+Pompei_VI.5_CE_2082 olla Pompei_VI.5_Olla_3a closed forma_chiusa                  
+Pompei_VI.5_CE_2083 olla Pompei_VI.5_Olla_3a closed forma_chiusa                  
+Pompei_VI.5_CE_407 olla Pompei_VI.5_Olla_3b closed forma_chiusa                  
+Pompei_VI.5_CE_686 olla Pompei_VI.5_Olla_3b closed forma_chiusa                  
+Pompei_VI.5_CE_1663 olla Pompei_VI.5_Olla_3b closed forma_chiusa                  
+Pompei_VI.5_CE_354 olla Pompei_VI.5_Olla_3c closed forma_chiusa                  
+Pompei_VI.5_CE_901 olla Pompei_VI.5_Olla_3c closed forma_chiusa                  
+Pompei_VI.5_CE_1135.14 olla Pompei_VI.5_Olla_3c closed forma_chiusa                  
+Pompei_VI.5_CE_1330 olla Pompei_VI.5_Olla_3c closed forma_chiusa                  
+Pompei_VI.5_CE_696 olla Pompei_VI.5_Olla_4a closed forma_chiusa                  
+Pompei_VI.5_CE_1614.4 olla Pompei_VI.5_Olla_4b closed forma_chiusa                  
+Pompei_VI.5_CE_118 olla Pompei_VI.5_Olla_4c closed forma_chiusa                  
+Pompei_VI.5_CE_144 olla Pompei_VI.5_Olla_4c closed forma_chiusa                  
+Pompei_VI.5_CE_234 olla Pompei_VI.5_Olla_4c closed forma_chiusa                  
+Pompei_VI.5_CE_242 olla Pompei_VI.5_Olla_4c closed forma_chiusa                  
+Pompei_VI.5_CE_287 olla Pompei_VI.5_Olla_4c closed forma_chiusa                  
+Pompei_VI.5_CE_1786 olla Pompei_VI.5_Olla_4c closed forma_chiusa                  
+Pompei_VI.5_CE_2225 olla Pompei_VI.5_Olla_4c closed forma_chiusa                  
+Pompei_VI.5_CE_697 olla Pompei_VI.5_Olla_4d closed forma_chiusa                  
+Pompei_VI.5_CE_88 olla Pompei_VI.5_Olla_4e closed forma_chiusa                  
+Pompei_VI.5_CE_286 olla Pompei_VI.5_Olla_4e closed forma_chiusa                  
+Pompei_VI.5_CE_699 olla Pompei_VI.5_Olla_4e closed forma_chiusa                  
+Pompei_VI.5_CE_708 olla Pompei_VI.5_Olla_4e closed forma_chiusa                  
+Pompei_VI.5_CE_189 olla Pompei_VI.5_Olla_4f closed forma_chiusa                  
+Pompei_VI.5_CE_670 olla Pompei_VI.5_Olla_4f closed forma_chiusa                  
+Pompei_VI.5_CE_1044 olla Pompei_VI.5_Olla_4f closed forma_chiusa                  
+Pompei_VI.5_CE_1329.1 olla Pompei_VI.5_Olla_4f closed forma_chiusa                  
+Pompei_VI.5_CE_241 olla Pompei_VI.5_Olla_4g closed forma_chiusa                  
+Pompei_VI.5_CE_645 olla Pompei_VI.5_Olla_4g closed forma_chiusa                  
+Pompei_VI.5_CE_116 olla Pompei_VI.5_Olla_4h closed forma_chiusa                  
+Pompei_VI.5_CE_498 olla Pompei_VI.5_Olla_4i closed forma_chiusa                  
+Pompei_VI.5_CE_272 olla Pompei_VI.5_Olla_5 closed forma_chiusa                  
+Pompei_VI.5_CE_2004.8 olla Pompei_VI.5_Olla_5 closed forma_chiusa                  
+Pompei_VI.5_CE_2227 olla Pompei_VI.5_Olla_5 closed forma_chiusa                  
+Pompei_VI.5_CE_82 olla Pompei_VI.5_Olla_6 closed forma_chiusa                  
+Pompei_VI.5_CE_623 olla Pompei_VI.5_Olla_6 closed forma_chiusa                  
+Pompei_VI.5_CE_2005 olla Pompei_VI.5_Olla_6 closed forma_chiusa                  
+Pompei_VI.5_CE_2137 olla Pompei_VI.5_Olla_6 closed forma_chiusa                  
+Pompei_VI.5_CE_2138 olla Pompei_VI.5_Olla_6 closed forma_chiusa                  
+Pompei_VI.5_CE_26 olla closed forma_chiusa                   
+Pompei_VI.5_CE_365 olla closed forma_chiusa                   
+Pompei_VI.5_CE_1131 olla closed forma_chiusa                   
+Pompei_VI.5_CE_1329.2 olla closed forma_chiusa                   
+Pompei_VI.5_CE_1343 olla closed forma_chiusa                   
+Pompei_VI.5_CE_1477.8 olla closed forma_chiusa                   
+Pompei_VI.5_CE_1907.6 olla closed forma_chiusa                   
+Pompei_VI.5_CE_2242 olla closed forma_chiusa                   
+Pompei_VI.5_CE_2106 olla closed forma_chiusa                   
+Pompei_VI.5_CE_614 anfora amphora closed forma_chiusa                  
+Pompei_VI.5_CE_1080 anfora amphora closed forma_chiusa                  
+Pompei_VI.5_CE_491 anfora amphora closed forma_chiusa                  
+Pompei_VI.5_CE_78 anfora amphora closed forma_chiusa                  
+Pompei_VI.5_CE_605 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1595 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1727.3 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_2092 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_2109 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_2125 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_503 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_504 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_943 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1853 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_2124 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_495 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_502 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_350 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_423 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_487 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_499 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_601 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_603 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1135.13 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1708.2 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1753 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1777 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_344 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_506 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1059 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1135 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1346 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_2142 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1777.21 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_2121 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1023 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1135.22 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1226.1 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1606 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1753.1 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1935 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_2101 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_2143 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_425 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1135.23 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1387 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_1753.3 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_2226 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_2248 brocca anforetta closed forma_chiusa                  
+Pompei_VI.5_CE_191 coperchio                     
+Pompei_VI.5_CE_401 coperchio                     
+Pompei_VI.5_CE_695 coperchio                     
+Pompei_VI.5_CE_99 coperchio                     
+Pompei_VI.5_CE_244 coperchio                     
+Pompei_VI.5_CE_257 coperchio                     
+Pompei_VI.5_CE_2220 coperchio                     
+Pompei_VI.5_CE_281 coperchio                     
+Pompei_VI.5_CE_1103.11 coperchio                     
+Pompei_VI.5_CE_1135.8 coperchio                     
+Pompei_VI.5_CE_1983.2 coperchio                     
+Pompei_VI.5_CE_21 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1147 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1158 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_2069.11 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1664 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_323 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_467.2 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_587.2 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_590 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_320 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_465 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_467.3 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_953 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_656 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1146.1 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_2069.3 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_2069.8 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_587.3 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_37 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1146 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_2298 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1999 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_321 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_591 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_790 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_930 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1048.3 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1150 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_2069.18 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1987.1 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1987.2 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1908.2 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_2069.2 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_2069.13 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1612.6 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1774.1 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_2291 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1146.10 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1397 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1529.8 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1539.3 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1735 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1991 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_1987 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_2299 olletta boccale closed forma_chiusa                  
+Pompei_VI.5_CE_2069.19 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1774.10 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1612.4 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2069.5 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1394 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1048 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1148 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1151 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1153 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1563 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1563.2 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1154 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2069 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_467.6 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_18.4 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1146.3 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1815.1 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1968.3 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2301 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2069.6 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1146.2 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1156 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1161 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2069.20 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2069.22 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1612 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1735.1 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_2069.9 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1146.15 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1146.16 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1152 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1705.3 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_592 coppa bicchiere cup bowl schale coupe open forma_aperta              
+Pompei_VI.5_CE_1842 Goudineau_1 plat assiette                   
+Pompei_VI.5_CE_2286 Goudineau_1 plat assiette                   
+Pompei_VI.5_CE_329 Goudineau_5 coupe Conspectus_8.1 Conspectus_8.2                  
+Pompei_VI.5_CE_595 Goudineau_5 coupe Conspectus_8.1 Conspectus_8.2                  
+Pompei_VI.5_CE_1182.64 Goudineau_5 coupe Conspectus_8.1 Conspectus_8.2                  
+Pompei_VI.5_CE_1173.36 Goudineau_5 coupe Conspectus_8.1 Conspectus_8.2                  
+Pompei_VI.5_CE_33 Goudineau_6 plat assiette Conspectus_10.1                  
+Pompei_VI.5_CE_48 Goudineau_6 plat assiette Conspectus_10.1                  
+Pompei_VI.5_CE_593.8 Goudineau_12 plat assiette                   
+Pompei_VI.5_CE_2286.1 Goudineau_12 plat assiette                   
+Pompei_VI.5_CE_33.1 Goudineau_13 coupe Conspectus_14.1                   
+Pompei_VI.5_CE_1842.9 Goudineau_18 coupe Conspectus_14.1 Conspectus_14.2                  
+Pompei_VI.5_CE_1884 Goudineau_19 plat assiette Conspectus_4.4                  
+Pompei_VI.5_CE_399 Goudineau_21 coupe Conspectus_36.1                   
+Pompei_VI.5_CE_1224 Goudineau_21 coupe Conspectus_36.1                   
+Pompei_VI.5_CE_1531 Goudineau_22b Goudineau_22 Conspectus_50.3 Conspectus_50                  
+Pompei_VI.5_CE_1585 Goudineau_22b Goudineau_22 Conspectus_50.3 Conspectus_50                  
+Pompei_VI.5_CE_1553 Goudineau_23 plat assiette Conspectus_12.5                  
+Pompei_VI.5_CE_1773.60 Goudineau_23 plat assiette Conspectus_12.5                  
+Pompei_VI.5_CE_1586.1 Goudineau_24 coupe Conspectus_14.2                   
+Pompei_VI.5_CE_1587 Goudineau_24 coupe Conspectus_14.2                   
+Pompei_VI.5_CE_1764 Goudineau_20 Goudineau_25 plat assiette coupe                 
+Pompei_VI.5_CE_819 Goudineau_26 assiette plat Conspectus_18.3                  
+Pompei_VI.5_CE_1716 Goudineau_26 assiette plat Conspectus_18.3                  
+Pompei_VI.5_CE_1187 Goudineau_27 coupe Conspectus_22.1 Conspectus_22.2 Conspectus_22.3                 
+Pompei_VI.5_CE_398 Goudineau_27 coupe Conspectus_22.1 Conspectus_22.2 Conspectus_22.3                 
+Castores_CW_Form_1 Vegas_1973_Type_14 Dyson_1976_VD5 Dyson_1976_PD10 Dyson_1976_PD11 Dyson_1976_22II24 Dyson_1976_22II25 frying_pan pan Dyson_1976_VD6 Dyson_1976_VD7 open forma_aperta tegame         
+Castores_CW_Form_2 Vegas_1973_Type_13.2 Dyson_1976_16IV7 Dyson_1976_16IV8 Dyson_1976_PD16 frying_pan pan open forma_aperta tegame             
+Castores_CW_Form_3 pan frying_pan Dyson_1976_PD25 Dyson_1976_PD24 Dyson_1976_PD26 tegame open forma_aperta              
+Castores_CW_Form_4 casserole pan GdP_fig._70.1358 GdP_71.1366 Dyson_1976_CF10 Dyson_1976_CF11 Dyson_1976_CF12 Dyson_1976_16IV1 Dyson_1976_16IV2 Dyson_1976_16IV3 tegame open forma_aperta         
+Castores_CW_Form_5 casserole                     
+Castores_CW_Form_6 frying_pan casserole pan open forma_aperta tegame                
+Castores_CW_Form_8 cooking_bowl basin                    
+Castores_CW_Form_9 bowl Dyson_1976_CF6 cup coppa schale coupe open forma_aperta              
+Castores_CW_Form_10 flanged_bowl bowl cup coppa schale coupe open forma_aperta              
+Castores_CW_Form_12 small_bowl Dyson_1976_16IV19 Dyson_1976_16IV20 Dyson_1976_16IV21 Dyson_1976_VD19 Dyson_1976_VD20 Dyson_1976_VD21 Dyson_1976_VD22 Dyson_1976_VD27 Dyson_1976_VD28 Dyson_1976_VD29 Dyson_1976_VD30 Dyson_1976_VD31 Dyson_1976_VD32 tripod       
+Castores_CW_Form_13 cooking_olla olla closed forma_chiusa                  
+Castores_CW_Form_14 cooking_olla olla closed forma_chiusa                  
+Castores_CW_Form_15 small_olla olla closed forma_chiusa                  
+Castores_CW_Form_16 jar Settefinestre_29.2 Settefinestre_28.7 Zevi-Carta_1978_fig._91.98 Duncan_1969_Form_27                 
+Castores_CW_Form_17 cooking_olla olla closed forma_chiusa                  
+Castores_CW_Form_18 cooking_pot pot                    
+Castores_CW_Form_19 casserole pan tegame open forma_aperta                 
+Castores_CW_Form_20 cooking_pot pot                    
+Castores_CW_Form_21 pot                     
+Castores_CW_Form_22 jar                     
+Castores_CW_Form_23 pot                     
+Castores_CW_Form_24a pitcher jar                    
+Castores_CW_Form_25 spouted_vessel bottle                    
+Castores_CW_Form_26 lid                     
+Castores_CW_Form_27 lid                     
+Castores_CW_Form_28 brazier                     
+Castores_CW_Form_13a Castores_CW_Form_13 Dyson_1976_CF39 Dyson_1976_CF32 Dyson_1976_VD29 Dyson_1976_VD30 Dyson_1976_VD31 Dyson_1976_VD32 Dyson_1976_VD33 Dyson_1976_VD34 Dyson_1976_VD35 Dyson_1976_VD36 Dyson_1976_VD37 Dyson_1976_VD38 Dyson_1976_VD39 Dyson_1976_VD40 Dyson_1976_VD41 Dyson_1976_VD42 Dyson_1976_VD43 cooking_olla olla closed forma_chiusa
+Castores_CW_Form_13b Castores_CW_Form_13 Dyson_1976_CF30 Dyson_1976_FG35 Dyson_1976_VD36 cooking_olla olla closed forma_chiusa              
+Castores_CW_Form_14a cooking_olla Castores_CW_Form_14                    
+Castores_CW_Form_14b cooking_olla Castores_CW_Form_14                    
+Castores_PRW_Form_1 Vegas_1973_Type_15.2 Vegas_1973_Type_15.3 Dyson_1976_CF7 Dyson_1976_PD14 Dyson_1976_PD15 Dyson_1976_VD8 Dyson_1976_VD9 platter GdP_1156 GdP_1157 GdP_1158 GdP_1159 plat teller assiette piatto plate platte open forma_aperta  
+Castores_PRW_Form_2 Vegas_1973_Type_15.1 Dyson_1976_FG12 Dyson_1976_FG13 platter dish plat teller assiette piatto plate platte open forma_aperta         
+Castores_PRW_Form_3 dish platter Dyson_1976_FG14 plat teller assiette piatto plate platte open forma_aperta           
+Castores_PRW_Form_4 platter plat teller assiette piatto plate platte open forma_aperta             
+Castores_PRW_Form_5 platter Vegas_1973_Type_15.7 Dyson_1976_22II39 Dyson_1976_22II40 plat teller assiette piatto plate platte open forma_aperta          
+Castores_PRW_Form_6 lid Settefinestre_31.10 Settefinestre_31.11                   
+Castores_PRW_Form_7 lid Settefinestre_31.8 Settefinestre_31.9                   
+Castores_PRW_Form_8 lid plate plat teller platter assiette piatto platte open forma_aperta            
+Castores_TWW_Form_1a Vegas_1973_Type_23 Mayet_1 Marabini_1 Ricci_1.1 Ricci_1.359 fusiform_situla situla               
+Castores_TWW_Form_1b Marabini_3 Mayet_2 Ricci_1.7                   
+Castores_TWW_Form_1c Vegas_1973_Type_24 Marabini_7 Mayet_3 Ricci_1.20 Ricci_1.362                 
+Castores_TWW_Form_2 Marabini_5 Marabini_6 Ricci_1.89                   
+Castores_TWW_Form_3 Marabini_6                     
+Castores_TWW_Form_4 mug open forma_aperta                   
+Castores_TWW_Form_5 mug open forma_aperta                   
+Castores_TWW_Form_6 Marabini_47 Ricci_1.116 Ricci_1.117 Duncan_1964_74_Fig._7                  
+Castores_TWW_Form_7 open forma_chiusa                    
+Castores_TWW_Form_8 jar                     
+Castores_TWW_Form_9 jug                     
+Castores_TWW_Form_10 inkwell                     
+Castores_TWW_Form_11 Marabini_36 Mayet_33 Mayet_35 hemispherical_bowl bowl cup coppa schale coupe open forma_aperta           
+Castores_TWW_Form_12 bowl cup coppa schale coupe open forma_aperta               
+Castores_TWW_Form_13 bowl cup coppa schale coupe open forma_aperta               
+Castores_TWW_Form_14 cup bowl coppa coupe schale open forma_aperta               
+Castores_TWW_Form_15 bowl cup coppa schale coupe open forma_aperta               
+Castores_TWW_Form_16 Mayet_34                     
+Castores_TWW_Form_17 cup bowl coppa coupe schale open forma_aperta               
+Castores_TWW_Form_18 hemispherical_bowl bowl cup coppa schale coupe open forma_aperta              
+Castores_TWW_Form_19 bowl jar cup coppa schale coupe open forma_aperta              
+Castores_TWW_Form_20 bowl jar cup coppa schale coupe open forma_aperta              
+Castores_TWW_Form_21 lid                     
+Castores_Ephesian-Ionian_Bowl bowl Ionian_bowl hemispherical_bowl tableware cup coppa schale coupe open forma_aperta            
+Castores_Italo-Megarian_Bowl_Form_1 hemispherical_bowl bowl tableware cup coppa schale coupe open forma_aperta             
+San_Silvestro_CC_1 olla olla_globulare closed forma_chiusa                  
+San_Silvestro_CC_10 pelvis Luni_II_Group_3 open forma_aperta                  
+San_Silvestro_CC_11 piatto_coperchio San_Silvestro_CC_6 piatto coperchio plat teller platter assiette plate platte open forma_aperta          
+San_Silvestro_CC_2 coperchio                     
+San_Silvestro_CC_3 pelvis Luni_II_Group_3b Lamboglia_1950_fig_30.52 Luni_II_Group_3 open forma_aperta                
+San_Silvestro_CC_4 pelvis Luni_II_Group_3b Luni_II_Group_3 open forma_aperta                 
+San_Silvestro_CC_5 pelvis Luni_II_Group_3 Lamboglia_1950_fig_30.53 open forma_aperta                 
+San_Silvestro_CC_6 piatto_coperchio piatto coperchio plat teller platter assiette plate platte open forma_aperta           
+San_Silvestro_CC_7 grande_contenitore contenitore                    
+San_Silvestro_CC_8 forma_chiusa closed chiusa                   
+San_Silvestro_CC_9 contenitore                     
+San_Silvestro_CF_1-3 Pompei_VI.5_Olla_4c                     
+San_Silvestro_CF_10 olpe closed forma_chiusa forma_aperta                  
+San_Silvestro_CF_11 olpe closed forma_chiusa                   
+San_Silvestro_CF_12 olpe closed forma_chiusa                   
+San_Silvestro_CF_13 olpe closed forma_chiusa                   
+San_Silvestro_CF_14 olpe closed forma_chiusa                   
+San_Silvestro_CF_15 Vegas_1973_Type_39.4                     
+San_Silvestro_CF_16 Brocca anforetta                    
+San_Silvestro_CF_17 Luni_II_Group_11                     
+San_Silvestro_CF_18 olpe closed forma_chiusa                   
+San_Silvestro_CF_19 olpe closed forma_chiusa                   
+San_Silvestro_CF_20-21 Forti_1962_p._151-152_Type_5 Vegas_1973_Type_63.3 balsamario_fusiforme                   
+San_Silvestro_CF_22 olpe closed forma_chiusa                   
+San_Silvestro_CF_23 Balsamarium                     
+San_Silvestro_CF_24 olpe closed forma_chiusa                   
+San_Silvestro_CF_4 Lamboglia-Simonett_p._229 olpe closed forma_chiusa forma_aperta                 
+San_Silvestro_CF_5 olpe closed forma_chiusa forma_aperta                  
+San_Silvestro_CF_6 olpe closed forma_chiusa forma_aperta                  
+San_Silvestro_CF_7 olpe closed forma_chiusa forma_aperta                  
+San_Silvestro_CF_8 olpe closed forma_chiusa forma_aperta                  
+San_Silvestro_CF_9 olpe closed forma_chiusa forma_aperta                  
+San_Silvestro_CG_1 Ostia_II_Fig_320 olpe Ostia_II_Fig_324 Ostia_II_Fig_823 Pelletier_1976_Fig_16.29 Vegas_1973_Type_46 closed forma_chiusa              
+San_Silvestro_CG_2 3 4 Ostia_II_Fig_322 olpe Ostia_II_Fig_323 closed forma_chiusa               
+San_Silvestro_CG_5 olpe closed forma_chiusa                   
+San_Silvestro_CG_6 Ostia_III_Fig_317 olla closed forma_chiusa                  
+San_Silvestro_CI_1-2 olpe closed forma_chiusa                   
+San_Silvestro_CI_3-4 olpe Berti_1978_Fig_217_a.b closed forma_chiusa                  
+San_Silvestro_CT_1 olletta Settefinestre_28.1 Rayssiguier_1983_Fig_9.15 closed forma_chiusa                 
+San_Silvestro_CT_10 tegame Luni_II_Group_26b Luni_II_131.1 Pistoia_1987_p._210_n._1243_fig_1243 Gambaro_1987_n._40_tav._3.40 Gambaro_1987_n._104_tav._8.104 pan open forma_aperta             
+San_Silvestro_CT_11 tegame San_Silvestro_CT_10 Gambaro_1987_tav._8.105 pan open forma_aperta                
+San_Silvestro_CT_12 tegame Pompei_VI.5_Tegame_4d pan open forma_aperta                 
+San_Silvestro_CT_13 coperchio Luni_II_Group_47a Luni_II_Group_47                   
+San_Silvestro_CT_14 coperchio Luni_II_Group_47                    
+San_Silvestro_CT_15 coperchio Luni_II_Group_47a Luni_II_Group_47                   
+San_Silvestro_CT_16 coperchio Luni_II_Group_47a Gambaro_1987_scheda_80 _p._226_tav._5.70 Luni_II_Group_47                 
+San_Silvestro_CT_17 olletta Luni_II_Group_35b closed forma_chiusa                  
+San_Silvestro_CT_18 olletta closed forma_chiusa                   
+San_Silvestro_CT_19 tegame Luni_II_Group_26b pan open forma_aperta                 
+San_Silvestro_CT_2 coperchio Luni_II_Group_47a Lamboglia_1950_fig_30.52 Luni_II_137.1                  
+San_Silvestro_CT_20 tegame Luni_II_Group_26c Pompei_VI.5_CE_694 Luni_II_Group_26 pan open forma_aperta               
+San_Silvestro_CT_21 tegame Luni_II_Group_26b Luni_II_131.9 Gambaro_1987_n._67 _p._224 _tav._5.67 Luni_II_Group_26 pan open forma_aperta            
+San_Silvestro_CT_22 piatto Luni_II_Group_47a Luni_II_275.13 Gambaro_1987 _n._69 _tav._5.69 plat teller platter assiette plate platte open forma_aperta        
+San_Silvestro_CT_23 piatto Gambaro_1987 _n._41_tav._3.41 plat teller platter assiette plate platte open forma_aperta           
+San_Silvestro_CT_24 forma_aperta open aperta                   
+San_Silvestro_CT_25 mortaio Navigia_Fig_116 Navigia_Fig_117 Luni_II_Group_5a Lamboglia_1950_Fig_21.80 Settefinestre_56.1 Gambaro_1987_n._112_tav._9.112 Pompei_VI.5_CE_2099 Pompei_VI.5_CE_2158 mortarium            
+San_Silvestro_CT_26 mortaio Pompei_VI.5_Mortarium_6 Pompei_VI.5_CE_661 Luni_II_125.13 Figches_1983 _p._97_Fig_20.40 Lamboglia_1950_Fig_23.14 mortarium              
+San_Silvestro_CT_27 forma_aperta open aperta                   
+San_Silvestro_CT_28 pelvis Lamboglia_1950_p._71_Fig_30.52_ Lamboglia_1950_p._61_Fig_23.14 Gambato_1987_n._88_tav._6.88 Cavalier_1985_Fig_155f Cavalier_1985_Fig_155i Cavalier_1985_Fig_156 open forma_aperta             
+San_Silvestro_CT_29 coperchio Luni_II_Group_47                    
+San_Silvestro_CT_3 coperchio Luni_II_Group_47a Luni_II_137.1 Settefinestre_65.6 Settefinestre_65.7 Luni_II_Group_47                
+San_Silvestro_CT_30 coperchio Luni_II_Group_47a Luni_II_Group_47                   
+San_Silvestro_CT_31 coperchio Luni_II_Group_47                    
+San_Silvestro_CT_32 coperchio Luni_II_Group_47                    
+San_Silvestro_CT_33 coperchio Luni_II_Group_47 Pompei_VI.5_CE_747                   
+San_Silvestro_CT_34 coperchio Luni_II_Group_47a Gambaro_1987_n._106 _tav._9.106 Luni_II_Group_47                 
+San_Silvestro_CT_35 coperchio Luni_II_Group_47 Gambaro_1987_n._42 _tav._3.42                  
+San_Silvestro_CT_36 coperchio Luni_II_Group_47a Pompei_VI.5_CE_747 Gambaro_1987_n._89_tav._6.89 Luni_II_Group_47                 
+San_Silvestro_CT_37 coperchio Luni_II_Group_47a Luni_II_Group_47                   
+San_Silvestro_CT_38 coperchio Luni_II_Group_47a Pompei_VI.5_CE_650                   
+San_Silvestro_CT_39 coperchio Luni_II_276.1 Luni_II_Group_47d Luni_II_Group_47                  
+San_Silvestro_CT_4 olletta Settefinestre_29.22 closed forma_chiusa                  
+San_Silvestro_CT_40 olla Luni_II_Group_35a closed forma_chiusa                  
+San_Silvestro_CT_41 olletta Luni_II_Group_35b Pompei_VI.5_CE_555.1 Pompei_VI.5_Olla_1b closed forma_chiusa                
+San_Silvestro_CT_42 olletta Luni_II_Group_35b closed forma_chiusa                  
+San_Silvestro_CT_43 pentola Luni_II_Group_29 Settefinestre_27.17 Gambaro_1987_n._74 _tav._5.74 Pompei_VI.5_CE_188 open forma_aperta              
+San_Silvestro_CT_44 pentola Luni_II_Group_29d Lamboglia_1950 _Fig_24.15 Gambaro_n._72 _tav._5.72 open forma_aperta              
+San_Silvestro_CT_45 bacino Settefinestre_54.3 open forma_aperta                  
+San_Silvestro_CT_46 pentola Settefinestre_25.4 open forma_aperta                  
+San_Silvestro_CT_47 Settefinestre_24.13 Settefinestre_30.5                    
+San_Silvestro_CT_48 tegame Settefinestre_31.3 Gambaro_1987_n._87_tav._6.87 Dyson_1976_PD22 Pompei_VI.5_CE_1817 pan open forma_aperta              
+San_Silvestro_CT_49 tegame Gambaro_1987_n._61.62 Gambaro_1987_n._101 pan open forma_aperta                
+San_Silvestro_CT_5 olletta Settefinestre_20.1 Luni_II_Group_35b Luni_II_133.8 Luni_II_133.9 closed forma_chiusa               
+San_Silvestro_CT_50 plate Luni_II_Group_47a Luni_II_136.7 plat teller platter assiette piatto platte open forma_aperta           
+San_Silvestro_CT_51 piatto Luni_II_Group_47a San_Silvestro_CT_22 plat teller platter assiette plate platte open forma_aperta           
+San_Silvestro_CT_52 piatto Luni_II_Group_35b plat teller platter assiette plate platte open forma_aperta            
+San_Silvestro_CT_6 olletta Luni_II_Group_35b closed forma_chiusa                  
+San_Silvestro_CT_7 olla Luni_II_Group_35a closed forma_chiusa                  
+San_Silvestro_CT_8 piccola_olla Luni_II_Group_35b Luni_II_133.4                   
+San_Silvestro_CT_9 olla Luni_II_Group_35a closed forma_chiusa                  
+San_Silvestro_GI_1 vasetto vasetto_biconicheggiante Arcelin_1981_Fig_19 Arcelin_1979_Fig_11.7 Arcelin_1979_Fig_11.9 Arcelin_1979_Fig_11.10 _provenzale Arcelin_Type_1a              
+San_Silvestro_GI_2 vasetto vasetto_biconicheggiante San_Silvestro_GI_1                   
+San_Silvestro_GI_3 Provençal_Form_1 Container                    
+San_Silvestro_GI_4 San_Silvestro_GI_3                     
+San_Silvestro_GL_1 coperchio D'Ambrosio_1985_Fig_15.17 Milanese_1987_Fig_82.271                   
+San_Silvestro_GL_10 coperchio San_Silvestro_GL_8                    
+San_Silvestro_GL_11 coperchio San_Silvestro_GL_8                    
+San_Silvestro_GL_12 coperchio San_Silvestro_GL_4                    
+San_Silvestro_GL_13 coperchio San_Silvestro_GL_4                    
+San_Silvestro_GL_14 coperchio                     
+San_Silvestro_GL_15 olla closed forma_chiusa                   
+San_Silvestro_GL_16 olla San_Silvestro_GL_15 closed forma_chiusa                  
+San_Silvestro_GL_17 olla San_Silvestro_GL_15 San_Silvestro_GL_16 closed forma_chiusa                 
+San_Silvestro_GL_18 olla San_Silvestro_GL_15 San_Silvestro_GL_16 San_Silvestro_GL_17 closed forma_chiusa                
+San_Silvestro_GL_19 olla San_Silvestro_GL_16 San_Silvestro_GL_15 San_Silvestro_GL_18 San_Silvestro_GL_17 closed forma_chiusa               
+San_Silvestro_GL_2 coperchio Milanese_1987_Fig_119.271                    
+San_Silvestro_GL_20 dolium piccolo_dolium                    
+San_Silvestro_GL_21 dolium piccolo_dolium                    
+San_Silvestro_GL_22 dolium medio_dolium                    
+San_Silvestro_GL_23 forma_aperta open aperta                   
+San_Silvestro_GL_24 tegame Vegas_1973_Type_14 Luni_II_Group_26b Gambaro_1987_tav._5.67 Gambaro_1987_tav._8.104-5 Pompei_VI.5_CE_53 Pompei_VI.5_CE_404 Arcelin_1981_Fig_33.232 Arcelin_1981_Fig_33.233 Py_and_Lebeaupin_1986_Fig_46.14 Py_and_Lebeaupin_1986_Fig_46.15 Gandolfi_and_Gervasini_1983 _Fig_76 pan open forma_aperta      
+San_Silvestro_GL_25 tegame Goudineau_1970_tav._2.17 pan open forma_aperta                 
+San_Silvestro_GL_26 tegame San_Silvestro_GL_25 pan open forma_aperta                 
+San_Silvestro_GL_27 tegame San_Silvestro_GL_25 San_Silvestro_GL_26 pan open forma_aperta                
+San_Silvestro_GL_28 dolium Milanese_1987_p._297-8                    
+San_Silvestro_GL_29 vasetto bicchiere corpo_globulare parete_sottile                  
+San_Silvestro_GL_3 olla closed forma_chiusa                   
+San_Silvestro_GL_30 vasetto corpo_globulare San_Silvestro_GL_29                   
+San_Silvestro_GL_31 coperchio San_Silvestro_GL_11 San_Silvestro_GL_13                   
+San_Silvestro_GL_32 coperchio San_Silvestro_GL_2                    
+San_Silvestro_GL_33 coperchio                     
+San_Silvestro_GL_34 coperchio Pompei_VI.5_CE_2149 Luni_II_137.6 Settefinestre_65.5                  
+San_Silvestro_GL_35 coperchio                     
+San_Silvestro_GL_36 olla San_Silvestro_GL_16 closed forma_chiusa                  
+San_Silvestro_GL_37 olla San_Silvestro_GL_36 closed forma_chiusa                  
+San_Silvestro_GL_38 olla San_Silvestro_GL_37 closed forma_chiusa                  
+San_Silvestro_GL_39 olla Mollo_Mezzena_1975-1976_Fig_5 closed forma_chiusa                  
+San_Silvestro_GL_4 coperchio Milanese_1987_Fig_95.513 Milanese_1987_Fig_109.727                   
+San_Silvestro_GL_40 tegame San_Silvestro_GL_25 pan open forma_aperta                 
+San_Silvestro_GL_41 tegame Gandolfi_Gervasini_1983_Fig_77 pan open forma_aperta                 
+San_Silvestro_GL_42 tegame Gandolfi_Gervasini_1983_Fig_77 pan open forma_aperta                 
+San_Silvestro_GL_43 tegame pan open forma_aperta                  
+San_Silvestro_GL_47 olla Lamboglia_1950_Fig_16.68 Gandolfi_and_Gervasini_1983_tav._2 closed forma_chiusa                 
+San_Silvestro_GL_5 olla closed forma_chiusa                   
+San_Silvestro_GL_6 olla olla_biconicheggiante closed forma_chiusa                  
+San_Silvestro_GL_7 olla Luni_II_Group_29 Lamboglia_1950_Fig_50.40 closed forma_chiusa                 
+San_Silvestro_GL_8 coperchio Arcelin_1979_Fig_11.8                    
+Pompei_VI.5_Olla_4c olla Pompei_VI.5_CE_118 Pompei_VI.5_CE_144 Pompei_VI.5_CE_234 Pompei_VI.5_CE_242 Pompei_VI.5_CE_287 Pompei_VI.5_CE_2225 closed forma_chiusa             
+San_Silvestro_GL_9 coperchio Luni_II_276.4 Rayssiguier_1983_Fig_9.14                   
+San_Silvestro_SI_1 Goudineau_6c Pucci_1985_tav._117.5 Pucci_7.5 patera Goudineau_6 Conspectus_11                
+San_Silvestro_SI_10 patera                     
+San_Silvestro_SI_11 patera                     
+San_Silvestro_SI_12 calice coppa Porten_Palange_1984_scheda_18 cup bowl schale coupe open forma_aperta             
+San_Silvestro_SI_13 coppa_emisferica Porten_Palange_1985_scheda_29                    
+San_Silvestro_SI_14 Goudineau_38 coupe                    
+San_Silvestro_SI_15 forma_aperta open aperta                   
+San_Silvestro_SI_2 patera                     
+San_Silvestro_SI_21 Goudineau_38b Goudineau_38 Conspectus_34                   
+San_Silvestro_SI_22 Goudineau_38 coppa coupe cup bowl schale open forma_aperta              
+San_Silvestro_SI_23 Goudineau_38b Goudineau_38 Conspectus_34                   
+San_Silvestro_SI_24 Goudineau_38 coppa coupe cup bowl schale open forma_aperta              
+San_Silvestro_SI_27 forma_aperta open aperta                   
+San_Silvestro_SI_28 Dragendorff_29 Lamboglia_1950_Fig._15_n.43 coppa cup bowl schale coupe open forma_aperta             
+San_Silvestro_SI_29 Dragendorff_29 coppa cup bowl schale coupe open forma_aperta              
+San_Silvestro_SI_3 coppa Lamboglia_1950_Fig_37_n.52 Lamboglia_1950_Fig_63_n._38 cup bowl schale coupe open forma_aperta             
+San_Silvestro_SI_32 forma_aperta open aperta                   
+San_Silvestro_SI_33 Dragendorff_10 Luni_II_109.8 Pucci_43 bicchiere Conspectus_50.5                 
+San_Silvestro_SI_35 Goudineau_38 coupe                    
+San_Silvestro_SI_4 Goudineau_17c Py_and_Lebeaupin_1986_Fig_53.6 Pucci_7 piatto Goudineau_17 plat teller platter assiette plate platte open forma_aperta         
+San_Silvestro_SI_5 Goudineau_26 patera assiette plat Conspectus_18.3                 
+San_Silvestro_SI_6 Goudineau_26 patera assiette plat Conspectus_18.3                 
+San_Silvestro_SI_7 Goudineau_34 patera Luni_II_96.15 plat Conspectus_3.1                 
+San_Silvestro_SI_8 Goudineau_38a coppa Goudineau_38 Conspectus_33.1 Conspectus_33 cup bowl schale coupe open forma_aperta           
+San_Silvestro_SI_9 Dragendorff-Watzinger_1948_Type_1 coppa calice cup bowl schale coupe open forma_aperta             
+San_Silvestro_VN_1 Lamboglia_27b Morel_2784                    
+San_Silvestro_VN_10 Lamboglia_27b Morel_2788a1                    
+San_Silvestro_VN_11 Lamboglia_1 Morel_2321c1                    
+San_Silvestro_VN_12 Lamboglia_5                     
+San_Silvestro_VN_13 Morel_2942a1 Morel_2900                    
+San_Silvestro_VN_14 Morel_2941c1 Morel_2900                    
+San_Silvestro_VN_15 Lamboglia_5                     
+San_Silvestro_VN_16 Morel_1720 Morel_1700                    
+San_Silvestro_VN_17 Lamboglia_5                     
+San_Silvestro_VN_18 Lamboglia_27b                     
+San_Silvestro_VN_19 Lamboglia_27b Morel_2824a1                    
+San_Silvestro_VN_2 Lamboglia_27b Morel_2784b1                    
+San_Silvestro_VN_20 Lamboglia_1                     
+San_Silvestro_VN_21 Lamboglia_28                     
+San_Silvestro_VN_22 Lamboglia_5 Luni_II_69.1                    
+San_Silvestro_VN_23 Lamboglia_27b Morel_2783i1 Morel_2700                   
+San_Silvestro_VN_24 Lamboglia_5 Lamboglia_6                    
+San_Silvestro_VN_25 Lamboglia_1 Morel_2321c1 Morel_2300                   
+San_Silvestro_VN_26 Lamboglia_2                     
+San_Silvestro_VN_27 Lamboglia_27                     
+San_Silvestro_VN_28 Lamboglia_5                     
+San_Silvestro_VN_29 Morel_2941c1 Morel_2900                    
+San_Silvestro_VN_3 forma_chiusa closed chiusa                   
+San_Silvestro_VN_30 Lamboglia_51                     
+San_Silvestro_VN_31 Lamboglia_1 Morel_2321c1                    
+San_Silvestro_VN_32 Morel_2942b1                     
+San_Silvestro_VN_33 Lamboglia_10 Morel_3451a3                    
+San_Silvestro_VN_34 Lamboglia_1 Morel_2321?                    
+San_Silvestro_VN_35 Lamboglia_27 Lamboglia_21                    
+San_Silvestro_VN_36 Lamboglia_43b Ferrara_T.585_meridionale                    
+San_Silvestro_VN_37 Morel_2538f1 Morel_2500                    
+San_Silvestro_VN_38 Sparkes-Talcott_1970_p._279_Fig_6 _617 skyphos                   
+San_Silvestro_VN_38A kantharos                     
+San_Silvestro_VN_39 Lamboglia_43b Ferrara_T.585_meridionale Milanese_1987_p._118_n._29                   
+San_Silvestro_VN_4 Lamboglia_3 Morel_7553a1 Luni_II_59.12 Lamboglia_1950_p._80_Fig_31                  
+San_Silvestro_VN_40 Milanese_1987_p._260_n._773                     
+San_Silvestro_VN_5 Morel_152a1                     
+San_Silvestro_VN_6 Lamboglia_31b Morel_2973b1 Lamboglia_33b                   
+San_Silvestro_VN_7 Lamboglia_6 Morel_1443l1                    
+San_Silvestro_VN_8 Lamboglia_6                     
+San_Silvestro_VN_9 Lamboglia_6                     
+San_Silvestro_PS_1 Marabini_1 Marabini_2 Marabini_3 bicchiere bicchiere_fusiforme                 
+San_Silvestro_PS_2 Marabini_1 bicchiere bicchiere_fusiforme                   
+San_Silvestro_PS_3 Marabini_4 bicchiere corpo_globulare                   
+San_Silvestro_PS_4 forma_aperta open aperta                   
+San_Silvestro_PS_5 Marabini_7                     
+San_Silvestro_PS_6 forma_aperta open aperta                   
+San_Silvestro_PS_7 forma_aperta open aperta                   
+San_Silvestro_PS_8 Marabini_4 bicchiere bicchiere_ovoidale                   
+San_Silvestro_PS_9 forma_aperta open aperta                   
+San_Silvestro_PS_10 Marabini_36                     
+San_Silvestro_PS_11 Marabini_36 Mayet_37                    
+San_Silvestro_PS_12 Marabini_7                     
+San_Silvestro_PS_13 forma_aperta open aperta                   
+San_Silvestro_PS_14 bicchiere bicchiere_cilindrico                    
+San_Silvestro_PS_15 forma_aperta open aperta                   
+San_Silvestro_PS_16 forma_aperta open aperta                   
+San_Silvestro_PS_17 forma_aperta open aperta                   
+San_Silvestro_PS_18 forma_aperta open aperta                   
+San_Silvestro_PS_19 forma_aperta open aperta                   
+San_Silvestro_PS_20 forma_aperta open aperta                   
+San_Silvestro_PS_21 forma_aperta open aperta                   
+San_Silvestro_PS_22 forma_aperta open aperta                   
+San_Silvestro_PS_23 forma_aperta open aperta                   
+San_Silvestro_PS_24 forma_aperta open aperta                   
+San_Silvestro_PS_25 forma_aperta open aperta                   
+San_Silvestro_PS_26 forma_aperta open aperta                   
+San_Silvestro_PS_27 forma_aperta open aperta                   
+San_Silvestro_PS_28 forma_aperta open aperta                   
+San_Silvestro_PS_29 forma_aperta open aperta                   
+San_Silvestro_PS_30 forma_aperta open aperta                   
+San_Silvestro_PS_31 forma_aperta open aperta                   
+FVM_VN.P1 Morel_1123 Lamboglia_23 piatto plat teller platter assiette plate platte open forma_aperta           
+FVM_VN.P2 Morel_2265 Lamboglia_5 piatto plat teller platter assiette plate platte open forma_aperta           
+FVM_VN.P3 Morel_2255 Lamboglia_5 piatto plat teller platter assiette plate platte open forma_aperta           
+FVM_VN.P4 Morel_2255 Lamboglia_5 piatto plat teller platter assiette plate platte open forma_aperta           
+FVM_VN.P5 Morel_2286 Morel_2287 Lamboglia_7 piatto plat teller platter assiette plate platte open forma_aperta          
+FVM_VN.P6 Morel_2281 Morel_2282 Lamboglia_5 Lamboglia_7 piatto plat teller platter assiette plate platte open forma_aperta         
+FVM_VN.P7 Morel_2271 Lamboglia_5 Lamboglia_7 piatto plat teller platter assiette plate platte open forma_aperta          
+FVM_VN.P8 Morel_1141 Lamboglia_6 piatto plat teller platter assiette plate platte open forma_aperta           
+FVM_VN.P9 Morel_1443 Lamboglia_6 piatto plat teller platter assiette plate platte open forma_aperta           
+FVM_VN.P10 Morel_1646 piatto plat teller platter assiette plate platte open forma_aperta            
+FVM_VN.C11 Morel_2538f coppa cup bowl schale coupe open forma_aperta              
+FVM_VN.C12 Morel_2536 coppa cup bowl schale coupe open forma_aperta              
+FVM_VN.C13 Pasquinucci_116 coppa cup bowl schale coupe open forma_aperta              
+FVM_VN.C14 Morel_2623a Lamboglia_23 coppa cup bowl schale coupe open forma_aperta             
+FVM_VN.C15 Morel_2653 Lamboglia_28 coppa cup bowl schale coupe open forma_aperta             
+FVM_VN.C16 Lamboglia_31 Morel_2950 coppa cup bowl schale coupe open forma_aperta             
+FVM_VN.C17 Morel_2973 Lamboglia_33b coppa cup bowl schale coupe open forma_aperta             
+FVM_VN.C18 Morel_3121 Pasquinucci_127 coppa cup bowl schale coupe open forma_aperta             
+FVM_VN.PA19 Morel_2252 Lamboglia_5 patera                   
+FVM_VN.K20 Morel_3451 Lamboglia_10 kantharos kantharos_pelikoide                  
+FVM_VN.PI21 Lamboglia_3 pyxis                    
+FVM_VN.OI22 Morel_5731a Pasquinucci_150                    
+FVM_VR.P1 piatello                     
+FVM_VR.PA2 Lamboglia_5 Morel_2250 patera                   
+FVM_VR.PA3 Morel_1534 patera                    
+FVM_VR.C4 Morel_2538i coppa cup bowl schale coupe open forma_aperta              
+FVM_VR.C5 Luni_II_Group_48a coppa cup bowl schale coupe open forma_aperta              
+FVM_VR.C6 Morel_2537 coppa cup bowl schale coupe open forma_aperta              
+FVM_VR.C7 coppa cup bowl schale coupe open forma_aperta               
+FVM_VR.C8 Lamboglia_28a Morel_2640 coppa cup bowl schale coupe open forma_aperta             
+FVM_VR.C9 Dyson_1976_FG49 coppa cup bowl schale coupe open forma_aperta              
+FVM_VR.C10 coppa cup bowl schale coupe open forma_aperta               
+FVM_VR.C11 coppa cup bowl schale coupe open forma_aperta               
+FVM_VR.BA12 Lamboglia_31 bacile                    
+FVM_VR.OL13 olpe closed forma_chiusa                   
+FVM_VR.OL14 olpe closed forma_chiusa                   
+FVM_VR.O15 olla Pistoia_1987_n._531 closed forma_chiusa                  
+FVM_VRR.C1 coppa Dragendorff_37 Dragendorff_32 cup bowl schale coupe open forma_aperta             
+FVM_VRR.C2 coppa Goudineau_21 cup bowl schale coupe open forma_aperta Conspectus_36.1             
+FVM_VRR.BA3 bacile Luni_II_122.1                    
+FVM_VRR.BA4 bacile                     
+FVM_VRR.BA5 bacile TSA_Hayes_10 Atlante_I_15.15                   
+FVM_G.C1 coppa cup bowl schale coupe open forma_aperta               
+FVM_G.C2 coppa cup bowl schale coupe open forma_aperta               
+FVM_G.C3 coppa Morel_2640 cup bowl schale coupe open forma_aperta              
+FVM_G.C4 coppa Morel_2252 cup bowl schale coupe open forma_aperta              
+FVM_G.C5 coppa cup bowl schale coupe open forma_aperta               
+FVM_C.C6 coppa cup bowl schale coupe open forma_aperta               
+FVM_G.07 forma_chiusa closed chiusa                   
+FVM_G.08 forma_chiusa closed chiusa                   
+FVM_G.OI9 oinochoe                     
+FVM_G.OL10 olpe closed forma_chiusa                   
+FVM_G.K11 kantharos                     
+FVM_G.OT12 olletta closed forma_chiusa                   
+FVM_CG.01 olla closed forma_chiusa                   
+FVM_CG.02 olla closed forma_chiusa                   
+FVM_CG.03 olla closed forma_chiusa                   
+FVM_CG.04 olla closed forma_chiusa                   
+FVM_CG.BR5 brocca closed forma_chiusa                   
+FVM_CG.C1 coppetta open forma_aperta                   
+FVM_CG.OT2 olletta closed forma_chiusa                   
+FVM_CG.BC3 boccaletto                     
+FVM_CG.FCf4 forma_chiusa closed chiusa                   
+FVM_CG.CO5 coperchio                     
+FVM_PS.C1 coppa cup bowl schale coupe open forma_aperta               
+FVM_PS.C2 coppa cup bowl schale coupe open forma_aperta               
+FVM_PS.C3 coppa cup bowl schale coupe open forma_aperta               
+FVM_PS.B1 bicchiere Marabini_3                    
+FVM_PS.B2 bicchiere Ricci_1.48                    
+FVM_PS.B3 bicchiere Mayet_34b                    
+FVM_PS.B4 bicchiere Mayet_40                    
+FVM_PS.B5 bicchiere Mayet_41                    
+FVM_PS.B6 bicchiere Ricci_1.130 Mayet_40 Mayet_45                  
+FVM_PS.B7 bicchiere Ostia_III_681                    
+FVM_PS.B8 bicchiere Ricci_1.102                    
+FVM_PS.Bf1 bicchiere Ricci_1.1                    
+FVM_PS.Bf2 bicchiere Rici_1.363                    
+FVM_PS.Bf3 bicchiere Ricci_1.161                    
+FVM_PS.Bf4 bicchiere Ricci_1.26                    
+FVM_PS.AM1 ampolla Marabini_58                    
+FVM_SI.C1 Pucci_4 Goudineau_3 coppa Conspectus_30 coupe cup bowl schale open forma_aperta            
+FVM_SI.C2 Pucci_19 coppa cup bowl schale coupe open forma_aperta              
+FVM_SI.C3 Pucci_21 coppa cup bowl schale coupe open forma_aperta              
+FVM_SI.C4 Pucci_25 Goudineau_37a coppa Goudineau_37 cup bowl schale coupe open forma_aperta            
+FVM_SI.C5 Pucci_31 coppa cup bowl schale coupe open forma_aperta              
+FVM_SI.C6 Pucci_37 Goudineau_38 coppa coupe cup bowl schale open forma_aperta             
+FVM_SI.P1 Pucci_3 Goudineau_1a piatto plat teller platter assiette plate platte open forma_aperta           
+FVM_SI.P2 Pucci_8 Goudineau_15 piatto plat assiette Conspectus_11 Conspectus_12.1 teller platter plate platte open forma_aperta         
+FVM_SI.P3 Pucci_8 Goudineau_17 piatto plat Conspectus_12.3 teller platter assiette plate platte open forma_aperta          
+FVM_SI.P4 Pucci_8 Goudineau_17c piatto Goudineau_17 plat teller platter assiette plate platte open forma_aperta          
+FVM_SI.P5 Pucci_10 Goudineau_36 piatto petit_plat assiette plat teller platter plate platte open forma_aperta          
+FVM_SI.P6 Pucci_10 Goudineau_39 piatto plat teller platter assiette plate platte open forma_aperta           
+FVM_SI.P7 Pucci_13 piatto plat teller platter assiette plate platte open forma_aperta            
+FVM_AD.C2 coppa Morel_2652 Morel_2653 cup bowl schale coupe open forma_aperta             
+FVM_AD.C3 coppa cup bowl schale coupe open forma_aperta               
+FVM_AD.PT1 piattino Morel_1262 piatto open forma_aperta plat teller platter assiette plate platte           
+FVM_AD.PT2 piattino piatto open forma_aperta plat teller platter assiette plate platte            
+FVM_AD.PP1 piatto_profondo_da_portata Settefinestre_32.1 piatto plat teller platter assiette plate platte open forma_aperta           
+FVM_AD.BR1 brocca Ostia_III_696 closed forma_chiusa                  
+FVM_AD.BR6 brocca closed forma_chiusa                   
+FVM_AD.BL1 contenitore_a_bocca_larga contenitore Settefinestre_25.7 Luni_II_Group_20                  
+FVM_AD.BL2 contenitore_a_bocca_larga contenitore Dyson_1976_CF72 Luni_II_Group_22                  
+FVM_AD.O1 olla closed forma_chiusa                   
+FVM_AD.O2 olla Luni_II_267.4 Dyson_1976_CF36 Dyson_1976_16IV49 closed forma_chiusa                
+FVM_AD.O3 olla closed forma_chiusa                   
+FVM_AD.O4 olla Ostia_II_381 Settefinestre_29.13 closed forma_chiusa                 
+FVM_AD.O5 olla Lamboglia_1950_fig._87.142 Vegas_1964_Type_1 Luni_II_Group_45b Ostia_II_414 closed forma_chiusa               
+FVM_AD.O8 olla Dyson_1976_22II10 Settefinestre_26.17 Luni_II_Group_29 closed forma_chiusa                
+FVM_AD.CO1 coperchio Dyson_1976_CF57                    
+FVM_AD.CO2 coperchio Dyson_1976_PD95                    
+FVM_AD.CO3 coperchio                     
+FVM_AD.CO4 coperchio Ostia_II_516 Ostia_III_521                   
+FVM_AD.CO5 coperchio Ostia_III_705 Ostia_III_706 Ostia_III_707                  
+FVM_VI.T1 tegame Dyson_1976_16IV18 pan open forma_aperta                 
+FVM_VI.T2 tegame pan open forma_aperta                  
+FVM_VI.T3 tegame Settefinestre_31.4 pan open forma_aperta                 
+FVM_VI.T4 tegame Goudineau_1970_Type_32 Luni_II_82.11 pan open forma_aperta                
+FVM_VI.T5 tegame pan open forma_aperta                  
+FVM_VI.T6 tegame Goudineau_1970_Type_25 Settefinestre_31.6 pan open forma_aperta                
+FVM_VI.T7 tegame pan open forma_aperta                  
+FVM_VI.CO1 coperchio Goudineau_1970_Type_18 Luni_II_82.6                   
+FVM_AG.O1 olla closed forma_chiusa                   
+FVM_AG.O2 olla Luni_II_135.4 Ostia_II_28.490 closed forma_chiusa                 
+FVM_AG.O3 olla Lamboglia_1950_fig._46 Lamboglia_1950_fig._54 closed forma_chiusa                 
+FVM_AG.O4 olla Luni_II_Group_41a closed forma_chiusa                  
+FVM_AG.O5 olla Dyson_1976_CF17 Luni_II_Group_36d Pompei_VI.5_CE_286 Pompei_VI.5_CE_82 Pompei_VI.5_CE_26 closed forma_chiusa              
+FVM_AG.O6 olla Ostia_II_28.487 closed forma_chiusa                  
+FVM_AG.O7 olla Dyson_1976_16IV22 Dyson_1976_FG40 closed forma_chiusa                 
+FVM_AG.O8 olla Settefinestre_28.18 Settefinestre_28.19 Luni_II_Group_32e closed forma_chiusa                
+FVM_AG.O9 olla Settefinestre_29.10 Dyson_1976_CF16 closed forma_chiusa                 
+FVM_AG.O10 olla Settefinestre_28.18 Ostia_II_27.485 closed forma_chiusa                 
+FVM_AG.O15 olla Settefinestre_29.21 closed forma_chiusa                  
+FVM_AG.O18 olla Dyson_1976_VD47 Settefinestre_30.2 closed forma_chiusa                 
+FVM_AG.PE5 pentola Ostia_II_28.480 Pompei_VI.5_CE_408 open forma_aperta                 
+FVM_AG.T1 tegame pan open forma_aperta                  
+FVM_AG.T2 tegame Dyson_1976_VD14 pan open forma_aperta                 
+FVM_AG.T3 tegame Ostia_II_28.496 pan open forma_aperta                 
+FVM_AG.T4 tegame Dyson_1976_VD16 pan open forma_aperta                 
+FVM_AG.T5 tegame Dyson_1976_VD9 pan open forma_aperta                 
+FVM_AG.T6 tegame Dyson_1976_CF6 Settefinestre_24.4 Luni_II_131.1 pan open forma_aperta               
+FVM_AG.T7 tegame Dyson_1976_22II46 pan open forma_aperta                 
+FVM_AG.CO1 coperchio Luni_II_137.10 Dyson_1976_FG50                   
+FVM_AG.CO2 coperchio                     
+FVM_AG.CO3 coperchio Settefinestre_65.18                    
+FVM_AG.COpo1 coperchio                     
+FVM_AG.COpo2 coperchio Dyson_1976_LS92                    
+FVM_AG.COpo5 coperchio Settefinestre_66.13                    
+FVM_AG.COpo6 coperchio Settefinestre_65.5                    
+FVM_AG.CL1 colatoio Vegas_1964_Type_17                    
+FVM_M.1 mortaio mortarium                    
+FVM_M.2 mortaio Pompei_VI.5_CE_112 mortarium                   
+FVM_BI.1 bacino grande_contenitore open forma_aperta                  
+Sib_1970_p31_cat29 pyxis Lamboglia_3                    
+Sib_1970_p31_cat30 Lamboglia_9 Campana_B                    
+Sib_1970_p31_cat31 piatto Lamboglia_27c plat teller platter assiette plate platte open forma_aperta            
+Sib_1970_p31_cat32 piatto Lamboglia_29 plat teller platter assiette plate platte open forma_aperta            
+Sib_1970_p32_cat33 Lamboglia_33a                     
+Sib_1970_p32_cat34 Lamboglia_34                     
+Sib_1970_p33_cat35 Lamboglia_36                     
+Sib_1970_p33_cat36 piatto plat teller platter assiette plate platte open forma_aperta             
+Sib_1970_p33_cat37 ciotola coppa bowl forma_aperta                  
+Sib_1970_p33_cat38 piattello ciotola coppa bowl forma_aperta                 
+Sib_1970_p33_cat39 ciotola coppa bowl forma_aperta                  
+Sib_1970_p33_cat40 guttus                     
+Sib_1970_p33_cat41 lekythos                     
+Sib_1970_p33_cat42 piatello                     
+Sib_1970_p33_cat43 ciotola coppa bowl forma_aperta                  
+Sib_1970_p33_cat44 skyphos                     
+Sib_1970_p33_cat45 piatto plat teller platter assiette plate platte open forma_aperta             
+Sib_1970_p35_cat46 piattello                     
+Sib_1970_p35_cat47 coppetta open forma_aperta                   
+Sib_1970_p35_cat48 skyphos                     
+Sib_1970_p35_cat49 piatello                     
+Sib_1970_p35_cat50 balsamario_fusiforme                     
+Sib_1970_p35_cat51 balsamario_fusiforme                     
+Sib_1970_p35_cat52 balsamario_fusiforme                     
+Sib_1970_p35_cat53 balsamario_fusiforme                     
+Sib_1970_p35_cat54 Goudineau_38a Goudineau_38 Conspectus_33.1 Conspectus_33                  
+Sib_1970_p35_cat55 Goudineau_41a Goudineau_41 Conspectus_26.1 Conspectus_26                  
+Sib_1970_p35_cat56 Goudineau_38b Goudineau_38 Conspectus_34                   
+Sib_1970_p35_cat57 coppetta Goudineau_38b open forma_aperta Goudineau_38 Conspectus_34                
+Sib_1970_p37_cat58 coppetta Goudineau_38b open forma_aperta Goudineau_38 Conspectus_34                
+Sib_1970_p37_cat59 Goudineau_38b Goudineau_38 Conspectus_34                   
+Sib_1970_p37_cat60 coppetta Goudineau_38b open forma_aperta Goudineau_38 Conspectus_34                
+Sib_1970_p37_cat61 piatto Goudineau_30 plat teller platter assiette plate platte open forma_aperta Conspectus_4.3 Conspectus_4.5 Conspectus_4.6         
+Sib_1970_p37_cat62 Goudineau_26 Goudineau_28 assiette plat Conspectus_18.3 Haltern_3b Conspectus_19.2               
+Sib_1970_p37_cat63 Goudineau_38b Goudineau_38 Conspectus_34                   
+Sib_1970_p37_cat64 Goudineau_34 plat Conspectus_3.1                   
+Sib_1970_p37_cat65 coppa_emisferica Dragendorff_37                    
+Sib_1970_p39_cat66 Goudineau_38b Goudineau_38 Conspectus_34                   
+Sib_1970_p39_cat67 Goudineau_38b Goudineau_38 Conspectus_34                   
+Sib_1970_p39_cat69 Goudineau_38b Goudineau_38 Conspectus_34                   
+Sib_1970_p39_cat70 Goudineau_38b Goudineau_38 Conspectus_34                   
+Sib_1970_p39_cat71 ciotola coppa bowl forma_aperta                  
+Sib_1970_p39_cat72 Goudineau_38b Goudineau_38 Conspectus_34                   
+Sib_1970_p39_cat73 coppa Dragendorff_29 Lamboglia_Albintimilium_p._47 _fig._15 _43 _p._48 cup bowl schale coupe open forma_aperta          
+Sib_1970_p39_cat74 coppetta Goudineau_38b open forma_aperta Goudineau_38 Conspectus_34                
+Sib_1970_p40_cat75 Goudineau_38b Goudineau_38 Conspectus_34                   
+Sib_1970_p40_cat76 Goudineau_43 assiette plat Conspectus_3.2                  
+Sib_1970_p40_cat77 Goudineau_22 gobelet                    
+Sib_1970_p40_cat78 Goudineau_38b Goudineau_38 Conspectus_34                   
+Sib_1970_p40_cat79 Goudineau_7 coupe Conspectus_13.1                   
+Sib_1970_p40_cat80 Goudineau_13 coupe Conspectus_14.1                   
+Sib_1970_p40_cat81 Goudineau_36a Goudineau_36 Conspectus_18.2 Conspectus_18                  
+Sib_1970_p40_cat82 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p40_cat83 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p40_cat84 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p41_cat85 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p41_cat86 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p41_cat87 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p41_cat88 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p41_cat89 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p41_cat90 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p41_cat91 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p41_cat92 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p41_cat93 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p41_cat94 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p41_cat95 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p42_cat96 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p42_cat97 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p42_cat98 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p43_cat99 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p43_cat100 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p44_cat101 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p44_cat102 coppetta_emisferica Goudineau_38b Goudineau_38 Conspectus_34                  
+Sib_1970_p44_cat103 coppetta_emisferica Goudineau_39b Goudineau_39 Conspectus_20.3 Conspectus_20                 
+Sib_1970_p44_cat104 coppetta_emisferica Goudineau_39c Goudineau_39 Conspectus_20.4 Conspectus_20                 
+Sib_1970_p44_cat106 Goudineau_39c Goudineau_39 Conspectus_20.4 Conspectus_20                  
+Sib_1970_p44_cat107 coppa Goudineau_43 cup bowl schale coupe open forma_aperta assiette plat Conspectus_3.2           
+Sib_1970_p44_cat109 Dragendorff_35                     
+Sib_1970_p44_cat110 coppa piattello Dragendorff_36 cup bowl schale coupe open forma_aperta             
+Sib_1970_p44_cat111 Dragendorff_36                     
+Sib_1970_p45_cat112 piatto plat teller platter assiette plate platte open forma_aperta             
+Sib_1970_p45_cat113 tazza Dragendorff_29                    
+Sib_1970_p45_cat114 ciotola Dragendorff_37 coppa bowl forma_aperta                 
+Sib_1970_p45_cat115 coppa Dragendorff_37 cup bowl schale coupe open forma_aperta              
+Sib_1970_p45_cat116 piatto plat teller platter assiette plate platte open forma_aperta             
+Sib_1970_p45_cat117 piatto plat teller platter assiette plate platte open forma_aperta             
+Sib_1970_p46_cat118 piatto plat teller platter assiette plate platte open forma_aperta             
+Sib_1970_p46_cat119 coppa cup bowl schale coupe open forma_aperta               
+Sib_1970_p46_cat120 coppetta open forma_aperta                   
+Sib_1970_p46_cat121 ciotola coppa bowl forma_aperta                  
+Sib_1970_p46_cat122 ciotola coppa bowl forma_aperta                  
+Sib_1970_p47_cat123 coppetta open forma_aperta                   
+Sib_1970_p47_cat124 olletta closed forma_chiusa                   
+Settefinestre_24.1 tegame pan open forma_aperta                  
+Settefinestre_24.2 tegame pan open forma_aperta                  
+Settefinestre_24.3 tegame Luni_I_73.31 pan open forma_aperta                 
+Settefinestre_24.4 tegame Dyson_1976_22II25 Luni_II_131.1 pan open forma_aperta                
+Settefinestre_25.3 pentola open forma_aperta                   
+Settefinestre_27.10 pentola Luni_II_131.19 open forma_aperta                  
+Settefinestre_24.5 pentola open forma_aperta                   
+Settefinestre_24.6 pentola Dyson_1976_22II3 open forma_aperta                  
+Settefinestre_24.7 pentola open forma_aperta                   
+Settefinestre_24.8 pentola open forma_aperta                   
+Settefinestre_24.9 pentola open forma_aperta                   
+Settefinestre_24.10 pentola open forma_aperta                   
+Settefinestre_24.11 pentola open forma_aperta                   
+Settefinestre_24.12 pentola Dyson_1976_LS19 open forma_aperta                  
+Settefinestre_24.13 pentola Dyson_1976_22II10 open forma_aperta                  
+Settefinestre_24.14 pentola Dyson_1976_22II3 open forma_aperta                  
+Settefinestre_24.16 Dyson_1976_LS3 pentola open forma_aperta                  
+Settefinestre_25.7 Luni_II_270.6 pentola open forma_aperta                  
+Settefinestre_25.9 Dyson_1976_LS20 Luni_II_131.16 pentola open forma_aperta                 
+Settefinestre_26.5 Dyson_1976_LS31 pentola open forma_aperta                  
+Settefinestre_26.6 Dyson_1976_LS22 Ostia_III_p._76 _tav._XIX_fig._85 pentola open forma_aperta                
+Settefinestre_26.7 Dyson_1976_LS19 pentola open forma_aperta                  
+Settefinestre_26.10 Dyson_1976_LS22 pentola open forma_aperta                  
+Settefinestre_26.11 Dyson_1976_22II12 pentola open forma_aperta                  
+Settefinestre_26.13 Dyson_1976_LS4 pentola open forma_aperta                  
+Settefinestre_27.9 Vegas_1973_Type_4.5 pentola open forma_aperta                  
+Settefinestre_27.11 Luni_II_72.12 Lamboglia_1950_p._50 _fig._16 _n.72 pentola open forma_aperta               
+Settefinestre_27.12 Dyson_1976_22II7 Vegas_1973_Type_4.3 pentola open forma_aperta                 
+Settefinestre_27.14 Dyson_1976_LS20 Luni_II_131.16 pentola open forma_aperta                 
+Settefinestre_27.15 Ostia_III_p._58 _tav._XVI_fig._49 Dyson_1976_LS2 Luni_II_196.6 pentola open forma_aperta               
+Settefinestre_27.16 Dyson_1976_LS22 Luni_II_131.14 pentola open forma_aperta                 
+Settefinestre_28.1 Dyson_1976_CF16 Vegas_1973_Type_1.15 olla_da_fuoco olla closed forma_chiusa                
+Settefinestre_28.2 Vegas_1973_Type_1.4 olla_da_fuoco olla closed forma_chiusa                 
+Settefinestre_28.4 Ostia_II_tav._XX_fig._355 Dyson_1976_VD41 olla_da_fuoco olla closed forma_chiusa                
+Settefinestre_28.14 Dyson_1976_PD127 olla_da_fuoco olla closed forma_chiusa                 
+Settefinestre_28.15 Dyson_1976_VD42 olla_da_fuoco olla closed forma_chiusa                 
+Settefinestre_28.18 Dyson_1976_LS72 olla_da_fuoco olla closed forma_chiusa                 
+Settefinestre_28.21 Dyson_1976_22II57 olla_da_fuoco olla closed forma_chiusa                 
+Settefinestre_29.2 Ostia_III_p._278_Tav._LXVIII_fig._630 Dyson_1976_22II68 olla_da_fuoco olla closed forma_chiusa                
+Settefinestre_29.4 Dyson_1976_PD55 Dyson_1976_PD57 olla_da_fuoco olla closed forma_chiusa                
+Settefinestre_29.8 Dyson_1976_16IV33 olla_da_fuoco olla closed forma_chiusa                 
+Settefinestre_29.10 Dyson_1976_22II63 olla_da_fuoco olla closed forma_chiusa                 
+Settefinestre_29.12 Dyson_1976_CF31 olla_da_fuoco olla closed forma_chiusa                 
+Settefinestre_29.13 Dyson_1976_22II54 olla_da_fuoco olla closed forma_chiusa                 
+Settefinestre_29.17 Dyson_1976_LS66 olla_da_fuoco olla closed forma_chiusa                 
+Settefinestre_29.18 Dyson_1976_22II88 olla_da_fuoco olla closed forma_chiusa                 
+Settefinestre_29.23 Dyson_1976_PD121 olla_da_fuoco olla closed forma_chiusa                 
+Settefinestre_30.1 Dyson_1976_FG34 Luni_II_133.2 Vegas_1973_Type_2.2 olla_da_fuoco olla closed forma_chiusa               
+Settefinestre_30.2 Dyson_1976_VD35 olla_da_fuoco olla closed forma_chiusa                 
+Settefinestre_30.3 Dyson_1976_16IV63 Luni_I_75.11 olla_da_fuoco olla closed forma_chiusa                
+Settefinestre_30.4 Dyson_1976_PD126 Luni_I_75.3 Vegas_1973_Type_1.1 olla_da_fuoco olla closed forma_chiusa               
+Settefinestre_30.5 Ostia_II_p._100_tav._26_fig._437_a-b Luni_I_73.35 olla_da_conserva olla closed forma_chiusa                
+Settefinestre_30.6 Dyson_1976_22II112 Vegas_1973_Type_48.8 Luni_II_129.1 olla_da_fuoco olla closed forma_chiusa               
+Settefinestre_30.7 Dyson_1976_22II110 olla_da_fuoco olla closed forma_chiusa                 
+Settefinestre_30.8 Dyson_1976_22II111 Ostia_III_p._141_tav._XXIX_fig._186 Vegas_1978_p._117_fig._41_Type_48.8 olla_da_fuoco olla closed forma_chiusa               
+Settefinestre_30.9 Dyson_1976_LS80 olla_da_fuoco olla closed forma_chiusa                 
+Settefinestre_30.10 Ostia_II_p._92_tav_XX_fig_354 olla_da_fuoco olla closed forma_chiusa                 
+Settefinestre_30.11 Dyson_1976_22II52 Luni_II_129.5 olla_da_fuoco olla closed forma_chiusa                
+Settefinestre_31.1 Goudineau_1970_Type_15 Goudineau_1970_Type_16 tegame pan open forma_aperta                
+Settefinestre_31.2 Dyson_1976_LS49 tegame pan open forma_aperta                 
+Settefinestre_31.3 Goudineau_1970_Type_4 Luni_I_59.5 Luni_II_82.8 tegame pan open forma_aperta               
+Settefinestre_31.4 Dyson_1976_VD8 Dyson_1976_VD9 Dyson_1976_PD14 Dyson_1976_PD15 Dyson_1976_CF7 Goudineau_1970_Type_1 Luni_II_81.21 Vegas_1973_Type_15.3 tegame Luni_II_82.1 Luni_II_82.2 pan open forma_aperta        
+Settefinestre_33.1 Dragendorff_36 piatto plat teller platter assiette plate platte open forma_aperta            
+Settefinestre_33.3 Vegas_1973_Type_58 Dyson_1976_22II25 Luni_I_73.31 piatto plat teller platter assiette plate platte open forma_aperta          
+Settefinestre_33.17 Ostia_II_p._54_tav._XV_fig._34 Luni_II_265.19 brocca closed forma_chiusa                 
+Settefinestre_33.18 Dyson_1976_LS116 brocca closed forma_chiusa                  
+Settefinestre_33.19 Luni_II_265.20 brocca closed forma_chiusa                  
+Settefinestre_33.21 Vegas_1973_Type_43.1 brocca closed forma_chiusa                  
+Settefinestre_33.22 Ostia_II_p._54_tav._XV_fig._34 Dyson_1976_22II97 bottiglia bottle closed forma_chiusa                
+Settefinestre_33.23 Vegas_1973_Type_38.11 bottiglia bottle closed forma_chiusa                 
+Settefinestre_34.1 Luni_II_265.20 bottiglia bottle closed forma_chiusa                 
+Settefinestre_34.5 Ostia_III_p._192_tav._XXXVII_fig._270 Dyson_1976_22II114 bottiglia bottle closed forma_chiusa                
+Settefinestre_34.8 Luni_II_266.1 Vegas_1973_Type_46.2 bottiglia bottle closed forma_chiusa                
+Settefinestre_34.13 Ostia_III_p._202_tav._XLIII_fig._336 Dyson_1976_22II124 bottiglia bottle closed forma_chiusa                
+Morel_1121 piatto plat teller platter assiette plate platte open forma_aperta             
+Morel_1281 piatto plat teller platter assiette plate platte open forma_aperta             
+Morel_1315 piatto plat teller platter assiette plate platte open forma_aperta             
+Morel_1531 piatto plat teller platter assiette plate platte open forma_aperta             
+Morel_1542 piatto plat teller platter assiette plate platte open forma_aperta             
+Morel_2255 piatto plat teller platter assiette plate platte open forma_aperta             
+Morel_2273 piatto plat teller platter assiette plate platte open forma_aperta             
+Morel_2282 piatto plat teller platter assiette plate platte open forma_aperta             
+Morel_2283 piatto plat teller platter assiette plate platte open forma_aperta             
+Settefinestre_35.1 Morel_1281 piatto plat teller platter assiette plate platte open forma_aperta            
+Settefinestre_35.2 Morel_2250 piatto plat teller platter assiette plate platte open forma_aperta            
+Settefinestre_35.3 Morel_2270 piatto plat teller platter assiette plate platte open forma_aperta            
+Settefinestre_35.4 Morel_2140 piatto plat teller platter assiette plate platte open forma_aperta            
+Morel_1262 coppa cup bowl schale coupe open forma_aperta               
+Morel_2538 coppa cup bowl schale coupe open forma_aperta               
+Morel_2611 coppa cup bowl schale coupe open forma_aperta               
+Morel_2614 coppa cup bowl schale coupe open forma_aperta               
+Morel_2615 coppa cup bowl schale coupe open forma_aperta               
+Morel_2616 coppa cup bowl schale coupe open forma_aperta               
+Morel_2645 coppa cup bowl schale coupe open forma_aperta               
+Morel_2652 coppa cup bowl schale coupe open forma_aperta               
+Morel_2653 coppa cup bowl schale coupe open forma_aperta               
+Morel_2783 coppa cup bowl schale coupe open forma_aperta               
+Morel_2784 coppa cup bowl schale coupe open forma_aperta               
+Morel_2831 Morel_2832 coppa cup bowl schale coupe open forma_aperta              
+Morel_2832 Morel_2831 coppa cup bowl schale coupe open forma_aperta              
+Morel_2912 coppa cup bowl schale coupe open forma_aperta               
+Morel_2914 coppa cup bowl schale coupe open forma_aperta               
+Morel_2943 coppa cup bowl schale coupe open forma_aperta               
+Morel_2950 coppa cup bowl schale coupe open forma_aperta               
+Morel_2954 coppa cup bowl schale coupe open forma_aperta               
+Morel_2964 coppa cup bowl schale coupe open forma_aperta               
+Morel_2974 coppa cup bowl schale coupe open forma_aperta               
+Morel_2977 coppa cup bowl schale coupe open forma_aperta               
+Morel_2983 coppa cup bowl schale coupe open forma_aperta               
+Settefinestre_35.7 Morel_1230 coppa cup bowl schale coupe open forma_aperta              
+Settefinestre_35.8 Morel_1220 coppa cup bowl schale coupe open forma_aperta              
+Settefinestre_35.9 Morel_2646 coppa cup bowl schale coupe open forma_aperta              
+Settefinestre_35.10 Morel_2614 coppa cup bowl schale coupe open forma_aperta              
+Settefinestre_35.11 Morel_2840 coppa cup bowl schale coupe open forma_aperta              
+Settefinestre_36.1 Morel_2650 coppa cup bowl schale coupe open forma_aperta              
+Settefinestre_36.2 Morel_2320 coppa cup bowl schale coupe open forma_aperta              
+Settefinestre_36.3 Morel_2650 coppa cup bowl schale coupe open forma_aperta              
+Settefinestre_36.4 Morel_3152 coppa cup bowl schale coupe open forma_aperta              
+Morel_3536 cratere                     
+Settefinestre_36.6 Morel_5120 Morel_5130 Morel_5140 Morel_5150 Morel_5720 brocca closed forma_chiusa              
+Settefinestre_37.2 Dragendorff_36                     
+Goudineau_15 piatto plat assiette Conspectus_11 Conspectus_12.1 teller platter plate platte open forma_aperta           
+Goudineau_17 piatto plat Conspectus_12.3 teller platter assiette plate platte open forma_aperta            
+Goudineau_19 piatto plat assiette Conspectus_4.4 teller platter plate platte open forma_aperta            
+Goudineau_28 piatto plat Haltern_3b Conspectus_19.2 teller platter assiette plate platte open forma_aperta           
+Goudineau_30 piatto plat assiette Conspectus_4.3 Conspectus_4.5 Conspectus_4.6 teller platter plate platte open forma_aperta          
+Goudineau_31 piatto plat Conspectus_6.1 teller platter assiette plate platte open forma_aperta            
+Goudineau_34 piatto plat Conspectus_3.1 teller platter assiette plate platte open forma_aperta            
+Goudineau_39 piatto plat teller platter assiette plate platte open forma_aperta             
+Goudineau_43 piatto assiette plat Conspectus_3.2 teller platter plate platte open forma_aperta            
+Settefinestre_37.1 Goudineau_1 Goudineau_43 piatto plat assiette Conspectus_3.2 teller platter plate platte open forma_aperta          
+Goudineau_7c Goudineau_7 coppa coupe Conspectus_13.1 cup bowl schale open forma_aperta             
+Goudineau_13 coppa coupe Conspectus_14.1 cup bowl schale open forma_aperta              
+Goudineau_16 coppa coupe Conspectus_14.1 cup bowl schale open forma_aperta              
+Goudineau_18 coppa coupe Conspectus_14.1 Conspectus_14.2 cup bowl schale open forma_aperta             
+Settefinestre_37.5 Goudineau_20c coppa cup bowl schale coupe open forma_aperta              
+Settefinestre_37.7 Goudineau_21 coppa coupe Conspectus_36.1 cup bowl schale open forma_aperta             
+Goudineau_25 coppa plat assiette coupe cup bowl schale open forma_aperta             
+Goudineau_29b coppa cup bowl schale coupe open forma_aperta               
+Goudineau_32b coppa Goudineau_32 Conspectus_31 cup bowl schale coupe open forma_aperta             
+Goudineau_37 Goudineau_40 coppa coupe grande_coupe Conspectus_23.2 cup bowl schale open forma_aperta            
+Goudineau_38b coppa Goudineau_38 Conspectus_34 cup bowl schale coupe open forma_aperta             
+Goudineau_41 coppa coupe coupe_carénée cup bowl schale open forma_aperta              
+Settefinestre_43.1 Goudineau_1 piatto plat assiette teller platter plate platte open forma_aperta            
+Marabini_19 Ricci_2.138 coppa cup bowl schale coupe open forma_aperta              
+Marabini_64 Ricci_2.242 coppa cup bowl schale coupe open forma_aperta              
+Marabini_67 Ricci_2.264 coppa cup bowl schale coupe open forma_aperta              
+Marabini_8 Ricci_2.270 coppa cup bowl schale coupe open forma_aperta              
+Marabini_61 Ricci_2.222 coppa cup bowl schale coupe open forma_aperta              
+Settefinestre_45.1 Duncan_1964_24_n._81 coppa cup bowl schale coupe open forma_aperta              
+Marabini_36 Ricci_2.407 coppa cup bowl schale coupe open forma_aperta              
+Marabini_42 Ricci_2.223 coppa cup bowl schale coupe open forma_aperta              
+Marabini_66 Ricci_2.274 coppa cup bowl schale coupe open forma_aperta              
+Marabini_15 Ricci_1.30 bicchiere                    
+Marabini_32 Ricci_1.173 bicchiere                    
+Marabini_60 Ricci_1.57 bicchiere                    
+Settefinestre_45.2 Ricci_1.59 bicchiere                    
+Marabini_47 Ricci_1.116 bicchiere                    
+Settefinestre_45.5 Marabini_51 Ricci_1-102 bicchiere                   
+Marabini_46 Ricci_1.109 bicchiere                    
+Marabini_68 Ricci_1.122 bicchiere                    
+Settefinestre_45.6 Marabini_3 Marabini_4 coppa cup bowl schale coupe open forma_aperta             
+Luni_II_109.8 forma_aperta open aperta                   
+Luni_II_122.1 tegame pan open forma_aperta                  
+Luni_II_125.13 Luni_II_Group_5 bacile                    
+Luni_II_129.1 Luni_II_Group_21                     
+Luni_II_129.5 Luni_II_Group_21                     
+Luni_II_131.1 tegame pan open forma_aperta                  
+Luni_II_131.14 Luni_II_Group_29                     
+Luni_II_131.16 Luni_II_Group_29                     
+Luni_II_131.19 Luni_II_Group_29                     
+Luni_II_131.9 Luni_II_Group_26                     
+Luni_II_133.2 olla Luni_II_Group_35 closed forma_chiusa                  
+Luni_II_133.4 olla Luni_II_Group_35 closed forma_chiusa                  
+Luni_II_133.8 olla Luni_II_Group_35 closed forma_chiusa                  
+Luni_II_133.9 olla Luni_II_Group_35 closed forma_chiusa                  
+Luni_II_135.4 Luni_II_Group_41                     
+Luni_II_136.7 coperchio Luni_II_Group_47                    
+Luni_II_137.1 coperchio Luni_II_Group_47                    
+Luni_II_137.10 coperchio Luni_II_Group_48                    
+Luni_II_137.6 coperchio Luni_II_Group_48                    
+Luni_II_196.6 pentola Luni_I_74.12 Dyson_1976_22II11 open forma_aperta                 
+Luni_II_265.19 forma_chiusa Luni_II_Group_17 closed chiusa                  
+Luni_II_265.20 forma_chiusa Luni_II_Group_17 closed chiusa                  
+Luni_II_266.1 brocca Luni_II_Group_18 closed forma_chiusa                  
+Luni_II_267.4 Luni_II_Group_21                     
+Luni_II_270.6 pentola Luni_II_Group_29 open forma_aperta                  
+Luni_II_275.13 coperchio Luni_II_Group_47                    
+Luni_II_276.1 coperchio Luni_II_Group_47                    
+Luni_II_276.4 coperchio Luni_II_Group_47                    
+Luni_II_59.12 Lamboglia_3                     
+Luni_II_69.1 Lamboglia_28                     
+Luni_II_72.12 Lamboglia_36 patera                    
+Luni_II_81.21 Luni_II_VRI_Type_1                     
+Luni_II_82.1 Luni_II_VRI_Type_1                     
+Luni_II_82.11 Luni_II_VRI_Type_5                     
+Luni_II_82.2 Luni_II_VRI_Type_1                     
+Luni_II_82.6 Luni_II_VRI_Type_2-4                     
+Luni_II_82.8 Luni_II_VRI_Type_2-4                     
+Luni_II_96.15 Goudineau_38 coupe                    
+Luni_II_Group_11 coppa cup bowl schale coupe open forma_aperta               
+Luni_II_Group_20 brocca boccale anforetta closed forma_chiusa                 
+Luni_II_Group_26b Luni_II_Group_26                     
+Luni_II_Group_26c Luni_II_Group_26                     
+Luni_II_Group_29d Luni_II_Group_29                     
+Luni_II_Group_3 bacile bacile_di_grandi_dimensioni                    
+Luni_II_Group_32e Luni_II_Group_32 olla closed forma_chiusa                  
+Luni_II_Group_35a Luni_II_Group_35 olla closed forma_chiusa                  
+Luni_II_Group_35b Luni_II_Group_35 olla closed forma_chiusa                  
+Luni_II_Group_36d Luni_II_Group_36 olla_globulare olla closed forma_chiusa                 
+Luni_II_Group_35 olla closed forma_chiusa                   
+Luni_II_Group_36 olla closed forma_chiusa                   
+Luni_II_Group_3b Luni_II_Group_3 bacile                    
+Luni_II_Group_41a Luni_II_Group_41 olla closed forma_chiusa                  
+Luni_II_Group_45b Luni_II_Group_45 olletta closed forma_chiusa                  
+Luni_II_Group_47 coperchio                     
+Luni_II_Group_47a Luni_II_Group_47 coperchio                    
+Luni_II_Group_47d Luni_II_Group_47 coperchio                    
+Luni_II_Group_48a Luni_II_Group_48 coperchio                    
+Luni_II_Group_5a Luni_II_Group_5 pelvis open forma_aperta                  
+Luni_II_125.8 Luni_II_Group_3                     
+Luni_II_125.9 Luni_II_Group_3                     
+Vegas_1974_Type_43.1 Vegas_1974_Type_43 jarra_de_una_asa jarra pitcher jug jar brocca closed forma_chiusa             
+Vegas_1973_Type_63.3 Vegas_1973_Type_63 unguentarium                    
+Vegas_1973_Type_4.3 Vegas_1973_Type_4 cuenco bowl cazuela casserole pot stewpot cup coppa schale coupe open forma_aperta         
+Vegas_1973_Type_16.3 plato piatto plate tapadera coperchio lid plat teller platter assiette platte open forma_aperta         
+Vegas_1973_Type_46 jarra pitcher jug jar brocca closed forma_chiusa               
+Vegas_1973_Type_13.2 Vegas_1973_Type_13 plato piatto plat teller platter assiette plate platte open forma_aperta           
+Vegas_1973_Type_23 cubilete bicchiere beaker                   
+Vegas_1973_Type_24 cubilete bicchiere beaker                   
+Vegas_1973_Type_46.2 Vegas_1973_Type_46 jarra                    
+Vegas_1973_Type_48.8 olla_para_guardar_provisiones olla closed forma_chiusa                  
+Vegas_1973_Type_1.1 olla Vegas_1973_Type_1 closed forma_chiusa                  
+Vegas_1973_Type_1.4 olla Vegas_1973_Type_1 closed forma_chiusa                  
+Vegas_1973_Type_2.2 olla Vegas_1973_Type_1 closed forma_chiusa                  
+Vegas_1973_Type_4.5 Vegas_1973_Type_4 cuenco bowl cazuela casserole pot stewpot cup coppa schale coupe open forma_aperta         
+Vegas_1973_Type_58 ánfora anfora transport_amphora amphora closed forma_chiusa                
+Vegas_1973_Type_38.11 jarra jarra_de_una_asa Vegas_1973_Type_38                   
+Vegas_1973_Type_1.15 olla Vegas_1973_Type_1 closed forma_chiusa                  
+Vegas_1973_Type_14 plato                     
+Vegas_1973_Type_15.1 Vegas_1973_Type_15 fuente platter plat teller assiette piatto plate platte open forma_aperta           
+Vegas_1973_Type_15.2 Vegas_1973_Type_15 fuente platter plat teller assiette piatto plate platte open forma_aperta           
+Vegas_1973_Type_15.3 Vegas_1973_Type_15 fuente platter plat teller assiette piatto plate platte open forma_aperta           
+Vegas_1973_Type_15.7 Vegas_1973_Type_15 fuente platter plat teller assiette piatto plate platte open forma_aperta           
+Vegas_1973_Type_39.4 jarra jarra_de_una_asa Vegas_1973_Type_39                   
+Dyson_1976_16IV63 jar                     
+Dyson_1976_CF17 pot                     
+Dyson_1976_16IV1 pan tegame open forma_aperta                  
+Dyson_1976_16IV18 legged_skillet skillet                    
+Dyson_1976_16IV19 legged_skillet skillet                    
+Dyson_1976_16IV2 pan tegame open forma_aperta                  
+Dyson_1976_16IV20 legged_skillet skillet                    
+Dyson_1976_16IV21 legged_skillet skillet                    
+Dyson_1976_16IV22 pot                     
+Dyson_1976_16IV3 pan tegame open forma_aperta                  
+Dyson_1976_16IV33 pot                     
+Dyson_1976_16IV49 pot                     
+Dyson_1976_16IV7 pan tegame open forma_aperta                  
+Dyson_1976_16IV8 pan tegame open forma_aperta                  
+Dyson_1976_22II10 saucepan                     
+Dyson_1976_22II110 jar                     
+Dyson_1976_22II111 jar                     
+Dyson_1976_22II112 jar                     
+Dyson_1976_22II114 jug                     
+Dyson_1976_22II12 saucepan                     
+Dyson_1976_22II124 pitcher                     
+Dyson_1976_22II24 saucepan                     
+Dyson_1976_22II25 saucepan                     
+Dyson_1976_22II3 saucepan                     
+Dyson_1976_22II39 pan tegame open forma_aperta                  
+Dyson_1976_22II40 pan tegame open forma_aperta                  
+Dyson_1976_22II46 pan tegame open forma_aperta                  
+Dyson_1976_22II52 pot                     
+Dyson_1976_22II54 pot                     
+Dyson_1976_22II57 pot                     
+Dyson_1976_22II63 pot                     
+Dyson_1976_22II68 pot                     
+Dyson_1976_22II7 saucepan                     
+Dyson_1976_22II88 jar                     
+Dyson_1976_22II97 pitcher                     
+Dyson_1976_CF10 pan tegame open forma_aperta                  
+Dyson_1976_CF11 pan tegame open forma_aperta                  
+Dyson_1976_CF12 pan tegame open forma_aperta                  
+Dyson_1976_CF16 pot                     
+Dyson_1976_CF30 pot                     
+Dyson_1976_CF31 pot                     
+Dyson_1976_CF32 pot                     
+Dyson_1976_CF39 pot                     
+Dyson_1976_CF57 pot                     
+Dyson_1976_CF6 pan tegame open forma_aperta                  
+Dyson_1976_CF7 pan tegame open forma_aperta                  
+Dyson_1976_CF72 jar                     
+Dyson_1976_CF36 pot                     
+Dyson_1976_FG12 pan tegame open forma_aperta                  
+Dyson_1976_FG13 pan tegame open forma_aperta                  
+Dyson_1976_FG14 pan tegame open forma_aperta                  
+Dyson_1976_FG34 pot                     
+Dyson_1976_FG35 pot                     
+Dyson_1976_FG40 pot                     
+Dyson_1976_FG49 lid                     
+Dyson_1976_FG50 lid                     
+Dyson_1976_LS116 pitcher                     
+Dyson_1976_LS19 saucepan                     
+Dyson_1976_LS2 saucepan                     
+Dyson_1976_LS20 saucepan                     
+Dyson_1976_LS22 saucepan                     
+Dyson_1976_LS3 saucepan                     
+Dyson_1976_LS31 saucepan                     
+Dyson_1976_LS4 saucepan                     
+Dyson_1976_LS49 pan tegame open forma_aperta                  
+Dyson_1976_LS66 pot                     
+Dyson_1976_LS72 pot                     
+Dyson_1976_LS80 pot                     
+Dyson_1976_LS92 lid                     
+Dyson_1976_PD10 pan tegame open forma_aperta                  
+Dyson_1976_PD11 pan tegame open forma_aperta                  
+Dyson_1976_PD121 jar                     
+Dyson_1976_PD126 jar                     
+Dyson_1976_PD127 jar                     
+Dyson_1976_PD14 pan tegame open forma_aperta                  
+Dyson_1976_PD15 pan tegame open forma_aperta                  
+Dyson_1976_PD16 pan tegame open forma_aperta                  
+Dyson_1976_PD22 pan tegame open forma_aperta                  
+Dyson_1976_PD24 pan tegame open forma_aperta                  
+Dyson_1976_PD25 pan tegame open forma_aperta                  
+Dyson_1976_PD26 pan tegame open forma_aperta                  
+Dyson_1976_PD55 pot                     
+Dyson_1976_PD57 pot                     
+Dyson_1976_PD95 lid-plate lid plate plat teller platter assiette piatto platte open forma_aperta           
+Dyson_1976_VD14 pan tegame open forma_aperta                  
+Dyson_1976_VD16 pan tegame open forma_aperta                  
+Dyson_1976_VD19 legged_skillet skillet                    
+Dyson_1976_VD20 legged_skillet skillet                    
+Dyson_1976_VD21 legged_skillet skillet                    
+Dyson_1976_VD22 legged_skillet skillet                    
+Dyson_1976_VD27 pot                     
+Dyson_1976_VD28 pot                     
+Dyson_1976_VD29 pot                     
+Dyson_1976_VD30 pot                     
+Dyson_1976_VD31 pot                     
+Dyson_1976_VD32 pot                     
+Dyson_1976_VD33 pot                     
+Dyson_1976_VD34 pot                     
+Dyson_1976_VD35 pot                     
+Dyson_1976_VD36 pot                     
+Dyson_1976_VD37 pot                     
+Dyson_1976_VD38 pot                     
+Dyson_1976_VD39 pot                     
+Dyson_1976_VD40 pot                     
+Dyson_1976_VD41 pot                     
+Dyson_1976_VD42 pot                     
+Dyson_1976_VD43 pot                     
+Dyson_1976_VD47 pot                     
+Dyson_1976_VD5 pan tegame open forma_aperta                  
+Dyson_1976_VD6 pan tegame open forma_aperta                  
+Dyson_1976_VD7 pan tegame open forma_aperta                  
+Dyson_1976_VD8 pan tegame open forma_aperta                  
+Dyson_1976_VD9 pan tegame open forma_aperta                  
+Sib_1970_p29_cat14 brocchetta                     
+Sib_1970_p29_cat15 coppa_ionica Villard-Vallet_1955_B2                    
+Sib_1970_p29_cat16 coppa_ionica Villard-Vallet_1955_B2                    
+Sib_1970_p29_cat17 kylix open stemmed_cup forma_aperta                  
+Sib_1970_p29_cat18 kylix open stemmed_cup forma_aperta                  
+Sib_1970_p29_cat19 cratere                     
+Sib_1970_p30_cat20 skyphos                     
+Sib_1970_p30_cat21 skyphos                     
+Sib_1970_p30_cat22 piatto plat teller platter assiette plate platte open forma_aperta             
+Sib_1970_p30_cat23 forma_chiusa closed chiusa                   
+Sib_1970_p30_cat24 coperchio                     
+Sib_1970_p30_cat25 piatto plat teller platter assiette plate platte open forma_aperta             
+Sib_1970_p30_cat26 skyphos                     
+Sib_1970_p30_cat27 piatto plat teller platter assiette plate platte open forma_aperta             
+Sib_1970_p31_cat28 skyphos                     
+Vegas_1973_Type_29 cubilete beaker bicchiere                   
+Dyson_1976_22II11 saucepan                     
