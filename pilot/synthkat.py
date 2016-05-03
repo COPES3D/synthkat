@@ -30,10 +30,18 @@ def fancy_dendrogram(*args, **kwargs):
             plt.axhline(y=max_d, c='k')
     return ddata
 
-#Enter data as txt files. See datascrub.py for processing of csv files.
+#Enter data as txt files. See datascrub.py for initial processing of csv files.
 
 files = ['pilot-ware.txt','pilotform.txt']
 
+#Create list of titles from processed csv version.
+titles = []
+with open('pilot-ware.csv', 'r') as file:
+    reader = csv.reader(file)
+    for line in reader:
+       titles = titles + [line]
+
+#Distance matrices
 print("Starting to calculate distance matrices.\n")
 for filename in files:
     class MyCorpus(object):
@@ -122,3 +130,5 @@ for filename in files:
             writer = csv.writer(file)
             for row in sorted(zip(kats,titles)):
                 writer.writerow(row)
+
+#Results will appear as .csv list of kat numbers
