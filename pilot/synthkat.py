@@ -1,3 +1,5 @@
+#This script produces the recategorization of types in csv, using as input txt files in the data folder.
+
 import gensim
 from gensim import corpora, models, similarities
 import csv
