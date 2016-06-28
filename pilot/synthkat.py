@@ -31,7 +31,7 @@ def fancy_dendrogram(*args, **kwargs):
 
 #Enter data as txt files. See datascrub.py for initial processing of csv files.
 
-files = ['pilot-ware.txt','pilotform.txt']
+files = ['pilot-ware.txt','pilot-form.txt']
 
 #Create list of titles from processed csv version.
 titles = []
