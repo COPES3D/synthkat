@@ -1,4 +1,6 @@
-#This script produces the recategorization of types in csv, using as input txt files in the data folder.
+# This script produces the recategorization of types in csv format.
+# Run synthkat.py in Python Shell with the vessel-types as a list in a txt file.
+# Pilot data: pilot-ware.txt, pilot-form.txt.
 
 import gensim
 from gensim import corpora, models, similarities
