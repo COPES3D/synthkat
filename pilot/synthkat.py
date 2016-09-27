@@ -7,7 +7,7 @@ from gensim import corpora, models, similarities
 import csv
 import numpy
 import scipy
-from scipy.cluster.hierarchy import ward, dendrogram
+from scipy.cluster.hierarchy import fcluster, ward, dendrogram
 import matplotlib.pyplot as plt
 
 def jaccard(a,b):
