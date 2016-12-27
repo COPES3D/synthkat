@@ -13,7 +13,7 @@ The current script uses the following libraries:
 Synthkat is a work in progress. Initial focus has been on second- and first-century BCE Italy, but the design of synthkat is to be aggregative, toward encompassing ever larger datasets. The first set of pilot data in .csv, .json, and .txt format, as well as scripts in python, are available on https://github.com/scollinselliott/synthkat/tree/master/pilot.
 
 When citing synthkat, please use the following reference: 
-- [**Collins-Elliott, S.A. 2016. "Agglomerative Clustering using Cosine and Jaccard Distances: A Computational Approach to Roman Vessel Taxonomy." _Archeologia e Calcolatori_ 27.**](http://soi.cnr.it/archcalc/)
+- [Collins-Elliott, S.A. 2016. "Agglomerative Clustering using Cosine and Jaccard Distances: A Computational Approach to Roman Vessel Taxonomy." _Archeologia e Calcolatori_ 27:7-25.](http://soi.cnr.it/archcalc/)
 
 Stephen Collins-Elliott
 
