@@ -1,8 +1,8 @@
 #synthkat
 
-##Synthetic Categories for Archaeological Vessel Comparison
-
 ![alt text](http://web.utk.edu/~scolli46/images/synthkatimg.jpg "terra sigillata")
+
+##Synthetic Categories for Archaeological Vessel Comparison
 
 Synthkat is a computational initiative to construct flexible, synthetic categories of established ceramic and glass vessel classifications and typologies of the ancient Roman world. It will take a collection of different vessel-types, expressed as a set of attributes, and recategorize them to allow for cross-project comparison of assemblages. Project files and algorithms are available for use under the GNU Public License v. 3.0.
 
